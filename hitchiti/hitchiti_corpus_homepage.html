@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<link rel="stylesheet" href="./test_textview.css">
+<body>
+    <div><form action="./index.html"><button>back</button></form><h1>Hitchiti language materials</h1></div>
+    <p>Hitchiti is a variety of the Mikasuki/Elaponke language. Unlike other varieties of Mikasuki/Elaponke, there are no modern speakers, but we have documentation of Hitchiti in the form of a collection of short stories written down by Willie Haney, and a text called the Kasihta Legend. This page is incomplete, but will eventually contain searchable versions of all of these texts.</p>
+
+    <table>
+        <tr>
+            <td>
+                    <select id="textOptions">
+                <option class="chooseText" selected>pick one of these texts</option>
+                <option class="chooseText">first letter</option>
+                <option class="chooseText">second letter</option>
+                <option class="chooseText">third letter</option>
+                <option class="chooseText">fourth letter</option>
+                <option class="chooseText">fifth letter</option>
+                    </select>
+            </td>
+            <td>
+                <div><input type="checkbox" class="configureContent" id="askForSwanton" checked><label>Swanton gloss</label></div>
+                <div><input type="checkbox" class="configureContent" id="askForGloss" checked><label>our gloss</label></div>
+                <div><input type="checkbox" class="configureContent" id="askForTranslation" checked><label>translation</label></div>
+                <div><input type="checkbox" class="configureContent" id="askForNotes" checked><label>notes</label></div>
+            </td></tr>
+    </table>
+    
+        <h2 id="titleHere"></h2>
+        <h3 id="storySummary"></h3>
+        <table id="text"></table>
+    
+        <script type="module">
+    
+    const chooseText = document.getElementsByClassName("chooseText");
+    for (var i = 0; i < chooseText.length; i++) {
+        chooseText[i].addEventListener("click", renderFullText);
+    }
+    
+    const askForSwanton = document.getElementById("askForSwanton");
+    const askForGloss = document.getElementById("askForGloss");
+    const askForTranslation = document.getElementById("askForTranslation");
+    const askForNotes = document.getElementById("askForNotes");
+    const configureContent = document.getElementsByClassName("configureContent");
+    for (var i = 0; i < configureContent.length; i++) {
+        configureContent[i].addEventListener("click", renderFullText);
+    }
+    
+    import {renderFullText} from './render_full_text.js';
+        </script>
+    </body>

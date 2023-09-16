@@ -1,0 +1,98 @@
+html * {
+    font-family: sans-serif;
+}
+
+#text {
+    width: 100%;
+}
+
+.sentence>td {
+    padding-bottom: 24px;
+}
+
+/* top of sentence level */
+.segnum_column {
+    margin-left: 2%;
+    margin-right: 2%;
+    width: 10%;
+    float: left;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.content_column {
+    margin-left: 2%;
+    margin-right: 2%;
+    width: 50%;
+}
+
+.feedback_column {
+    margin-left: 2%;
+    float: left;
+    width: 20%;
+    /* -webkit-column-break-inside: avoid; */
+}
+
+/* within the content column */
+
+.original_version {
+    /* border-style: dotted;
+    border-color:aqua; */
+    color:rgb(76, 78, 85);
+    white-space: nowrap;
+}
+
+.new_version {
+    /* border-style: dotted;
+    border-color: red; */
+    color: rgb(58, 58, 167);
+    white-space: nowrap;
+}
+
+.translation_material {
+    /* border-style: dotted;
+    border-color: green; */
+    color: rgb(25, 25, 65);
+    white-space: nowrap;
+}
+
+.notes {
+    /* border-style: dotted;
+    border-color: grey; */
+    white-space: nowrap;
+}
+
+.label {
+    font-size: 12px;
+    color: grey;
+}
+
+.material {
+    /* margin-left: 30%; */
+    width: 80%;
+    display: inline-block;
+}
+
+/* within "the stuff" */
+
+.baseline {
+    font-weight: bold;
+}
+
+.translation {
+    font-style: italic;
+}
+
+/* end content column stuff */
+
+/* feedback column stuff */
+
+.feedback {
+    margin-bottom: 10px;
+}
+
+.feedbackTextBox {
+    width: 300px;
+    height: 50px;
+    word-wrap: normal;
+}
