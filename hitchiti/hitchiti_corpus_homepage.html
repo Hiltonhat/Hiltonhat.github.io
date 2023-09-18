@@ -33,6 +33,7 @@
     const chooseText = document.getElementsByClassName("chooseText");
     for (var i = 0; i < chooseText.length; i++) {
         chooseText[i].addEventListener("click", renderFullText);
+        chooseText[i].addEventListener("touchstart", renderFullText);
     }
     
     const askForSwanton = document.getElementById("askForSwanton");
