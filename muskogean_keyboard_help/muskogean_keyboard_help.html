@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<link rel="stylesheet" href="./muskogean_keyboard_help.css">
+<body>
+    <div><form action="https://hiltonhat.github.io/"><button>back</button></form><h1>get those Muskogean orthography symbols you need...</h1></div>
+    <p>If you're super smart and hip you probably already have a keyboard for whichever Muskogean language(s) you're interested in downloaded on your computer, but maybe you're like me and you've never gotten around to doing it.</p>
+
+    <h2>Buttons to just copy straight to clipboard:</h2>
+    <button id='copyLowercaseUpsilonButton'>ʋ</button>
+    <button id='copyUppercaseUpsilonButton'>Ʋ</button>
+    <button id='copySlashedLButton'>ł</button>
+    <button id='copyBigSlashedLButton'>Ł</button>
+    <button id='copyMacronBelowButton'>V̱</button>
+    <button id='copyAcuteButton'>V́</button>
+    <button id="copyCarrotButton">V̂</button>
+
+    <h2>Type in this box to get a converted string of text</h2>
+    <h3>conversion key:</h3>
+    <p>vv = ʋ (can do uppercase or lowercase)</p>
+    <p>r = ł (can do uppercase or lowercase)</p>
+    <p>a_ = a̱ (can add the accent to any letter)</p>
+    <p>a' = á (can add the accent to any letter)</p>
+    <p>a^ = â (can add the accent to any letter)</p>
+    <div><input id='originalText'><button id="copyOutputButton">copy!</button></div>
+    <p id="outputText"></p>
+    
+
+    <script type="module">
+
+        // making it so that all the different buttons copy the right things to the clipboard
+        // I know that this could prolly be condensed to like eight lines of code instead of thirty
+        // will try and work that out some other time
+        const copyLowercaseUpsilonButton = document.getElementById("copyLowercaseUpsilonButton");
+        copyLowercaseUpsilonButton.addEventListener("click", copyLowercaseUpsilon)
+        function copyLowercaseUpsilon() {
+            navigator.clipboard.writeText("ʋ")
+        }
+
+        const copyUppercaseUpsilonButton = document.getElementById("copyUppercaseUpsilonButton");
+        copyUppercaseUpsilonButton.addEventListener("click", copyUppercaseUpsilon)
+        function copyUppercaseUpsilon() {
+            navigator.clipboard.writeText("Ʋ")
+        }
+
+        const copySlashedLButton = document.getElementById("copySlashedLButton");
+        copySlashedLButton.addEventListener("click", copySlashedL)
+        function copySlashedL() {
+            navigator.clipboard.writeText("ł")
+        }
+
+        const copyBigSlashedLButton = document.getElementById("copyBigSlashedLButton");
+        copyBigSlashedLButton.addEventListener("click", copyBigSlashedL)
+        function copyBigSlashedL() {
+            navigator.clipboard.writeText("Ł")
+        }
+
+        const copyMacronBelowButton = document.getElementById("copyMacronBelowButton");
+        copyMacronBelowButton.addEventListener("click", copyMacronBelow)
+        function copyMacronBelow() {
+            navigator.clipboard.writeText("̱")
+        }
+
+        const copyAcuteButton = document.getElementById("copyAcuteButton");
+        copyAcuteButton.addEventListener("click", copyAcute)
+        function copyAcute() {
+            navigator.clipboard.writeText("́")
+        }
+
+        const copyCarrotButton = document.getElementById("copyCarrotButton");
+        copyCarrotButton.addEventListener("click", copyCarrot)
+        function copyCarrot() {
+            navigator.clipboard.writeText("̂")
+        }
+
+        // the input box
+        const outputText = document.getElementById("outputText")
+        const originalText = document.getElementById("originalText");
+        originalText.addEventListener("keyup", convertText)
+        function convertText() {
+            let value = originalText.value;
+            value = value.replaceAll('r', 'ł');
+            value = value.replaceAll('R', 'Ł');
+            value = value.replaceAll('vv', 'ʋ');
+            value = value.replaceAll('VV', 'Ʋ');
+            value = value.replaceAll('_', '̱');
+            value = value.replaceAll('\'', "́");
+            value = value.replaceAll('^', "̂");
+
+            outputText.innerHTML = value
+
+            const copyOutputButton = document.getElementById("copyOutputButton");
+            copyOutputButton.addEventListener("click", copyOutput)
+            function copyOutput() {
+                navigator.clipboard.writeText(value)
+            }
+        }
+
+    </script>
+</body>
