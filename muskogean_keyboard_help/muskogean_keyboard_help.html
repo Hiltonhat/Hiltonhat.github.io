@@ -12,6 +12,7 @@
     <button id='copyMacronBelowButton'>V̱</button>
     <button id='copyAcuteButton'>V́</button>
     <button id="copyCarrotButton">V̂</button>
+    <button id="copySectionSignButton">§</button>
 
     <h2>Type in this box to get a converted string of text</h2>
     <h3>conversion key:</h3>
@@ -69,6 +70,12 @@
         copyCarrotButton.addEventListener("click", copyCarrot)
         function copyCarrot() {
             navigator.clipboard.writeText("̂")
+        }
+
+        const copySectionSignButton = document.getElementById("copySectionSignButton");
+        copySectionSignButton.addEventListener("click", copySectionSign)
+        function copySectionSign() {
+            navigator.clipboard.writeText("§")
         }
 
         // the input box
