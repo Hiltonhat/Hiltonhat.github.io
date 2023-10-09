@@ -1,7 +1,7 @@
 {
  "flextext": "fifth_letter.flextext",
- "title_en": "1931 Willie Haney Letters, Pt. 5 [Rabbit destroys wolf's engagement]",
- "comment": "The Rabbit and the wolf | wolf engage to marry a Girl and the Rabbit find out and destroy the engagement and the Girl taken [turn?] to Rabbit and married to Rabbit. Rabbit talk the wolf to be his horse",
+ "title_en": "1931 Willie Haney Letters, Pt. 05 [Rabbit destroys wolf's engagement]",
+ "comment": "\"The Rabbit and the wolf | wolf engage to marry a Girl and the Rabbit find out and destroy the engagement and the Girl taken [turn?] to Rabbit and married to Rabbit. Rabbit talk the wolf to be his horse\"",
  "sentences": [
   {
    "segnum": "1",
@@ -81,16 +81,11 @@
     },
     {
      "word_text": "yawkaktawa",
-     "word_breakdown": "yawka-kta-wa",
+     "word_breakdown": "yawkakta-wa",
      "morphs": [
       {
-       "morph_txt": "yawka",
+       "morph_txt": "yawkakta",
        "morph_type": ""
-      },
-      {
-       "morph_txt": "-kta",
-       "morph_gls": "dpast",
-       "morph_type": "suffix"
       },
       {
        "morph_txt": "-wa",
@@ -276,7 +271,7 @@
   },
   {
    "segnum": "7",
-   "full_text": "chokfoka atarak",
+   "full_text": "chokfoka ata\u0142ak",
    "translation_en": null,
    "word_list": [
     {
@@ -297,7 +292,7 @@
      "gls": ""
     },
     {
-     "word_text": "atarak",
+     "word_text": "ata\u0142ak",
      "word_breakdown": "",
      "morphs": [],
      "pos": "",
@@ -318,7 +313,7 @@
   },
   {
    "segnum": "8",
-   "full_text": "ma tikon emorak",
+   "full_text": "ma tikon emo\u0142ak",
    "translation_en": null,
    "word_list": [
     {
@@ -353,7 +348,7 @@
      "gls": ""
     },
     {
-     "word_text": "emorak",
+     "word_text": "emo\u0142ak",
      "word_breakdown": "",
      "morphs": [],
      "pos": "",
@@ -525,7 +520,7 @@
   },
   {
    "segnum": "12",
-   "full_text": "ommeka ataraleh-sonapommes",
+   "full_text": "ommeka ata\u0142aleh-sonapommes",
    "translation_en": null,
    "word_list": [
     {
@@ -547,18 +542,9 @@
      "gls": ""
     },
     {
-     "word_text": "ataraleh-sonapommes",
-     "word_breakdown": "ataralehsonapommes",
-     "morphs": [
-      {
-       "morph_txt": "ataraleh",
-       "morph_type": ""
-      },
-      {
-       "morph_txt": "sonapommes",
-       "morph_type": ""
-      }
-     ],
+     "word_text": "ata\u0142aleh-sonapommes",
+     "word_breakdown": "",
+     "morphs": [],
      "pos": "",
      "gls": ""
     }
@@ -946,8 +932,34 @@
    "word_list": [
     {
      "word_text": "emakashamommelete",
-     "word_breakdown": "",
-     "morphs": [],
+     "word_breakdown": "em-akashamomme-le-te",
+     "morphs": [
+      {
+       "morph_txt": "em-",
+       "morph_gls": "3III",
+       "morph_type": "prefix"
+      },
+      {
+       "morph_txt": "akasham",
+       "morph_gls": "agree",
+       "morph_type": "stem"
+      },
+      {
+       "morph_txt": "omme",
+       "morph_gls": "aux",
+       "morph_type": "stem"
+      },
+      {
+       "morph_txt": "-le",
+       "morph_gls": "1sI",
+       "morph_type": "suffix"
+      },
+      {
+       "morph_txt": "-te",
+       "morph_gls": "neg",
+       "morph_type": "suffix"
+      }
+     ],
      "pos": "",
      "gls": ""
     }
@@ -1565,34 +1577,13 @@
   },
   {
    "segnum": "31",
-   "full_text": "holasonkechkas",
+   "full_text": "hola\u0331a\u0331shonkechkash",
    "translation_en": null,
    "word_list": [
     {
-     "word_text": "holasonkechkas",
-     "word_breakdown": "holas-onk-echka-s",
-     "morphs": [
-      {
-       "morph_txt": "holas",
-       "morph_gls": "tell:lie",
-       "morph_type": "stem"
-      },
-      {
-       "morph_txt": "-onk",
-       "morph_gls": "past?",
-       "morph_type": "suffix"
-      },
-      {
-       "morph_txt": "-echka",
-       "morph_gls": "2sI",
-       "morph_type": "suffix"
-      },
-      {
-       "morph_txt": "-s",
-       "morph_gls": "dec",
-       "morph_type": "suffix"
-      }
-     ],
+     "word_text": "hola\u0331a\u0331shonkechkash",
+     "word_breakdown": "",
+     "morphs": [],
      "pos": "",
      "gls": ""
     }
@@ -1607,7 +1598,7 @@
   },
   {
    "segnum": "32",
-   "full_text": "opahosoka cenkawayotes",
+   "full_text": "opahosoka chenkawayotes",
    "translation_en": null,
    "word_list": [
     {
@@ -1628,28 +1619,17 @@
      "gls": ""
     },
     {
-     "word_text": "cenkawayotes",
-     "word_breakdown": "cen-kaway-te-s",
+     "word_text": "chenkawayotes",
+     "word_breakdown": "chen-kawayotes",
      "morphs": [
       {
-       "morph_txt": "cen-",
+       "morph_txt": "chen-",
        "morph_gls": "2sIII",
        "morph_type": "prefix"
       },
       {
-       "morph_txt": "kaway",
-       "morph_gls": "horse",
-       "morph_type": "stem"
-      },
-      {
-       "morph_txt": "-te",
-       "morph_gls": "neg",
-       "morph_type": "suffix"
-      },
-      {
-       "morph_txt": "-s",
-       "morph_gls": "dec",
-       "morph_type": "suffix"
+       "morph_txt": "kawayotes",
+       "morph_type": ""
       }
      ],
      "pos": "",
@@ -1737,7 +1717,7 @@
   },
   {
    "segnum": "35",
-   "full_text": "aklek holasonkechkas",
+   "full_text": "aklek hola\u0331a\u0331shonkechkash",
    "translation_en": null,
    "word_list": [
     {
@@ -1758,30 +1738,9 @@
      "gls": ""
     },
     {
-     "word_text": "holasonkechkas",
-     "word_breakdown": "holas-onk-echka-s",
-     "morphs": [
-      {
-       "morph_txt": "holas",
-       "morph_gls": "tell:lie",
-       "morph_type": "stem"
-      },
-      {
-       "morph_txt": "-onk",
-       "morph_gls": "past?",
-       "morph_type": "suffix"
-      },
-      {
-       "morph_txt": "-echka",
-       "morph_gls": "2sI",
-       "morph_type": "suffix"
-      },
-      {
-       "morph_txt": "-s",
-       "morph_gls": "dec",
-       "morph_type": "suffix"
-      }
-     ],
+     "word_text": "hola\u0331a\u0331shonkechkash",
+     "word_breakdown": "",
+     "morphs": [],
      "pos": "",
      "gls": ""
     }
@@ -2304,7 +2263,7 @@
   },
   {
    "segnum": "44",
-   "full_text": "ommeka akasamelares",
+   "full_text": "ommeka akasamela\u0142es",
    "translation_en": null,
    "word_list": [
     {
@@ -2326,30 +2285,9 @@
      "gls": ""
     },
     {
-     "word_text": "akasamelares",
-     "word_breakdown": "akasame-le-are-s",
-     "morphs": [
-      {
-       "morph_txt": "akasame",
-       "morph_gls": "agree",
-       "morph_type": "stem"
-      },
-      {
-       "morph_txt": "-le",
-       "morph_gls": "1sI",
-       "morph_type": "suffix"
-      },
-      {
-       "morph_txt": "-are",
-       "morph_gls": "will",
-       "morph_type": "suffix"
-      },
-      {
-       "morph_txt": "-s",
-       "morph_gls": "dec",
-       "morph_type": "suffix"
-      }
-     ],
+     "word_text": "akasamela\u0142es",
+     "word_breakdown": "",
+     "morphs": [],
      "pos": "",
      "gls": ""
     }
@@ -2370,7 +2308,7 @@
   },
   {
    "segnum": "45",
-   "full_text": "kachen chokfoka arak",
+   "full_text": "kachen chokfoka a\u0142ak",
    "translation_en": null,
    "word_list": [
     {
@@ -2409,19 +2347,9 @@
      "gls": ""
     },
     {
-     "word_text": "arak",
-     "word_breakdown": "ar-ak",
-     "morphs": [
-      {
-       "morph_txt": "ar",
-       "morph_gls": "go",
-       "morph_type": "stem"
-      },
-      {
-       "morph_txt": "-ak",
-       "morph_type": ""
-      }
-     ],
+     "word_text": "a\u0142ak",
+     "word_breakdown": "",
+     "morphs": [],
      "pos": "",
      "gls": ""
     }
@@ -3238,11 +3166,11 @@
   },
   {
    "segnum": "60",
-   "full_text": "aresyon hemempepechkan",
+   "full_text": "a\u0142esyon hemempepechkan",
    "translation_en": null,
    "word_list": [
     {
-     "word_text": "aresyon",
+     "word_text": "a\u0142esyon",
      "word_breakdown": "",
      "morphs": [],
      "pos": "",
@@ -3288,18 +3216,13 @@
   },
   {
    "segnum": "61",
-   "full_text": "or lawowachokfot kachen",
+   "full_text": "o\u0142 lawowachokfot kachen",
    "translation_en": null,
    "word_list": [
     {
-     "word_text": "or",
-     "word_breakdown": "or-",
-     "morphs": [
-      {
-       "morph_txt": "or-",
-       "morph_type": ""
-      }
-     ],
+     "word_text": "o\u0142",
+     "word_breakdown": "",
+     "morphs": [],
      "pos": "",
      "gls": ""
     },
@@ -3534,7 +3457,7 @@
   },
   {
    "segnum": "65",
-   "full_text": "[ page 41] echonchokohlelen aresyowa",
+   "full_text": "[ page 41] echonchokohlelen a\u0142esyowa",
    "translation_en": null,
    "word_list": [
     {
@@ -3598,19 +3521,9 @@
      "gls": ""
     },
     {
-     "word_text": "aresyowa",
-     "word_breakdown": "ar-esyowa",
-     "morphs": [
-      {
-       "morph_txt": "ar",
-       "morph_gls": "go",
-       "morph_type": "stem"
-      },
-      {
-       "morph_txt": "-esyowa",
-       "morph_type": ""
-      }
-     ],
+     "word_text": "a\u0142esyowa",
+     "word_breakdown": "",
+     "morphs": [],
      "pos": "",
      "gls": ""
     }
@@ -3629,7 +3542,7 @@
   },
   {
    "segnum": "66",
-   "full_text": "cheke orawelachon ommeka",
+   "full_text": "cheke o\u0142awelachon ommeka",
    "translation_en": null,
    "word_list": [
     {
@@ -3651,28 +3564,9 @@
      "gls": ""
     },
     {
-     "word_text": "orawelachon",
-     "word_breakdown": "or-awel-chi-on",
-     "morphs": [
-      {
-       "morph_txt": "or-",
-       "morph_type": ""
-      },
-      {
-       "morph_txt": "awel",
-       "morph_gls": "near",
-       "morph_type": "stem"
-      },
-      {
-       "morph_txt": "-chi",
-       "morph_type": ""
-      },
-      {
-       "morph_txt": "-on",
-       "morph_gls": "acc",
-       "morph_type": "suffix"
-      }
-     ],
+     "word_text": "o\u0142awelachon",
+     "word_breakdown": "",
+     "morphs": [],
      "pos": "",
      "gls": ""
     },
@@ -3766,11 +3660,11 @@
   },
   {
    "segnum": "68",
-   "full_text": "onaresyak hemempak",
+   "full_text": "ona\u0142esyak hemempak",
    "translation_en": null,
    "word_list": [
     {
-     "word_text": "onaresyak",
+     "word_text": "ona\u0142esyak",
      "word_breakdown": "",
      "morphs": [],
      "pos": "",
@@ -3798,18 +3692,13 @@
   },
   {
    "segnum": "69",
-   "full_text": "or elawolakas kachen",
+   "full_text": "o\u0142 elawolakas kachen",
    "translation_en": null,
    "word_list": [
     {
-     "word_text": "or",
-     "word_breakdown": "or-",
-     "morphs": [
-      {
-       "morph_txt": "or-",
-       "morph_type": ""
-      }
-     ],
+     "word_text": "o\u0142",
+     "word_breakdown": "",
+     "morphs": [],
      "pos": "",
      "gls": ""
     },
@@ -3875,8 +3764,24 @@
     },
     {
      "word_text": "emakasamen",
-     "word_breakdown": "",
-     "morphs": [],
+     "word_breakdown": "em-akasam-en",
+     "morphs": [
+      {
+       "morph_txt": "em-",
+       "morph_gls": "3III",
+       "morph_type": "prefix"
+      },
+      {
+       "morph_txt": "akasam",
+       "morph_gls": "agree",
+       "morph_type": "stem"
+      },
+      {
+       "morph_txt": "-en",
+       "morph_gls": "sr:ds",
+       "morph_type": "suffix"
+      }
+     ],
      "pos": "",
      "gls": ""
     }
@@ -4438,11 +4343,11 @@
   },
   {
    "segnum": "79",
-   "full_text": "aresyolakas chokfoka",
+   "full_text": "a\u0142esyolakas chokfoka",
    "translation_en": null,
    "word_list": [
     {
-     "word_text": "aresyolakas",
+     "word_text": "a\u0142esyolakas",
      "word_breakdown": "",
      "morphs": [],
      "pos": "",
@@ -4520,8 +4425,24 @@
     },
     {
      "word_text": "makasamen",
-     "word_breakdown": "",
-     "morphs": [],
+     "word_breakdown": "em-akasam-en",
+     "morphs": [
+      {
+       "morph_txt": "em-",
+       "morph_gls": "3III",
+       "morph_type": "prefix"
+      },
+      {
+       "morph_txt": "akasam",
+       "morph_gls": "agree",
+       "morph_type": "stem"
+      },
+      {
+       "morph_txt": "-en",
+       "morph_gls": "sr:ds",
+       "morph_type": "suffix"
+      }
+     ],
      "pos": "",
      "gls": ""
     }
@@ -4762,11 +4683,11 @@
   },
   {
    "segnum": "85",
-   "full_text": "aresyak cheke ahechkan",
+   "full_text": "a\u0142esyak cheke ahechkan",
    "translation_en": null,
    "word_list": [
     {
-     "word_text": "aresyak",
+     "word_text": "a\u0142esyak",
      "word_breakdown": "",
      "morphs": [],
      "pos": "",
@@ -4816,11 +4737,11 @@
   },
   {
    "segnum": "86",
-   "full_text": "osran opahosot onkak",
+   "full_text": "os\u0142an opahosot onkak",
    "translation_en": null,
    "word_list": [
     {
-     "word_text": "osran",
+     "word_text": "os\u0142an",
      "word_breakdown": "",
      "morphs": [],
      "pos": "",
@@ -4923,11 +4844,11 @@
   },
   {
    "segnum": "88",
-   "full_text": "aresyoch kachen hantemoseska",
+   "full_text": "a\u0142esyoch kachen hantemoseska",
    "translation_en": null,
    "word_list": [
     {
-     "word_text": "aresyoch",
+     "word_text": "a\u0142esyoch",
      "word_breakdown": "",
      "morphs": [],
      "pos": "",
@@ -4987,11 +4908,11 @@
   },
   {
    "segnum": "89",
-   "full_text": "areshihyan kachen",
+   "full_text": "a\u0142eshihyan kachen",
    "translation_en": null,
    "word_list": [
     {
-     "word_text": "areshihyan",
+     "word_text": "a\u0142eshihyan",
      "word_breakdown": "",
      "morphs": [],
      "pos": "",
@@ -5030,11 +4951,11 @@
   },
   {
    "segnum": "90",
-   "full_text": "aresyan chekoka",
+   "full_text": "a\u0142esyan chekoka",
    "translation_en": null,
    "word_list": [
     {
-     "word_text": "aresyan",
+     "word_text": "a\u0142esyan",
      "word_breakdown": "",
      "morphs": [],
      "pos": "",

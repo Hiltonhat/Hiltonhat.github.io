@@ -2,6 +2,16 @@ html * {
     font-family: sans-serif;
 }
 
+#parameters>td {
+    margin-bottom: 50px;
+    border: dotted;
+}
+
+#hitCountIs {
+    font-size: 12px;
+    text-align: center;
+}
+
 #text {
     width: 100%;
 }

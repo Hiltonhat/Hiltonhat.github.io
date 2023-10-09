@@ -4,46 +4,246 @@
     <div><form action="https://hiltonhat.github.io/"><button>back</button></form><h1>Hitchiti language materials</h1></div>
     <p>Hitchiti is a variety of the Mikasuki/Elaponke language. Unlike other varieties of Mikasuki/Elaponke, there are no modern speakers, but we have documentation of Hitchiti in the form of a collection of short stories written down by Willie Haney, and a text called the Kasihta Legend. This page is incomplete, but will eventually contain searchable versions of all of these texts.</p>
 
-    <table>
-        <tr>
-            <td>
-                    <select id="textOptions">
-                <option class="chooseText" selected>pick one of these texts</option>
-                <option class="chooseText">first letter</option>
-                <option class="chooseText">second letter</option>
-                <option class="chooseText">third letter</option>
-                <option class="chooseText">fourth letter</option>
-                <option class="chooseText">fifth letter</option>
-                    </select>
-            </td>
-            <td>
-                <div><input type="checkbox" class="configureContent" id="askForSwanton" checked><label>Swanton gloss</label></div>
-                <div><input type="checkbox" class="configureContent" id="askForGloss" checked><label>our gloss</label></div>
-                <div><input type="checkbox" class="configureContent" id="askForTranslation" checked><label>translation</label></div>
-                <div><input type="checkbox" class="configureContent" id="askForNotes" checked><label>notes</label></div>
-            </td></tr>
-    </table>
-    
-        <h2 id="titleHere"></h2>
-        <h3 id="storySummary"></h3>
-        <table id="text"></table>
-    
-        <script type="module">
-    
-    const chooseText = document.getElementsByClassName("chooseText");
-    for (var i = 0; i < chooseText.length; i++) {
-        chooseText[i].addEventListener("click", renderFullText); // click doesn't work on mobile :(
+<table id="parameters">
+    <tr>
+        <td>pick the texts your interested in:</td>
+        <td>
+            <button id="checkAll">check/uncheck all</button>
+            <div><input type="checkbox" class="chooseText" id="firstletter"><label>first letter</label></div>
+            <div><input type="checkbox" class="chooseText" id="secondletter"><label>second letter</label></div>
+            <div><input type="checkbox" class="chooseText" id="thirdletter"><label>third letter</label></div>
+            <div><input type="checkbox" class="chooseText" id="fourthletter"><label>fourth letter</label></div>
+            <div><input type="checkbox" class="chooseText" id="fifthletter"><label>fifth letter</label></div>
+            <div><input type="checkbox" class="chooseText" id="sixthletter"><label>sixth letter</label></div>
+            <div><input type="checkbox" class="chooseText" id="seventhletter"><label>seventh letter</label></div>
+            <div><input type="checkbox" class="chooseText" id="eighthletter"><label>eighth letter</label></div>
+            <div><input type="checkbox" class="chooseText" id="ninthletter"><label>ninth letter</label></div>
+            <div><input type="checkbox" class="chooseText" id="tenthletter"><label>tenth letter</label></div>
+            <div><input type="checkbox" class="chooseText" id="kasihta"><label>Kasihta Legend</label></div>
+        </td>
+        <td>
+            <div><input type="checkbox" class="configureContent" id="askForSwanton" checked><label>Swanton gloss</label></div>
+            <div><input type="checkbox" class="configureContent" id="askForGloss" checked><label>our gloss</label></div>
+            <div><input type="checkbox" class="configureContent" id="askForTranslation" checked><label>translation</label></div>
+            <div><input type="checkbox" class="configureContent" id="askForNotes" checked><label>notes</label></div>
+        </td>
+    </tr>
+    <tr>
+        <td>search for examples:</td>
+        <td>
+            <select id="searchField">
+                <option>Swanton baseline</option>
+                <option>Swanton gloss</option>
+                <option>modern baseline</option>
+                <option>modern gloss</option>
+                <option>translation</option>
+                <!-- need to add the other fields -->
+            </select>
+        </td>
+        <td><input id="searchInput" type="text" placeholder="look for..."></td>
+    </tr>
+</table>
+
+<p id="hitCountIs"></p>
+
+    <h2 id="titleHere"></h2>
+    <h3 id="storySummary"></h3>
+    <table id="textArea"></table>
+
+    <script type="module">
+
+// grabbing all the relevant html objects...
+const checkAllButton = document.getElementById("checkAll");
+checkAllButton.addEventListener("click", chooseAllTexts)
+
+const askForSwanton = document.getElementById("askForSwanton");
+const askForGloss = document.getElementById("askForGloss");
+const askForTranslation = document.getElementById("askForTranslation");
+const askForNotes = document.getElementById("askForNotes");
+
+    const textArea = document.getElementById("textArea");
+
+// loading each text one by one like the fool I am
+// add for all the texts once I have an export and flibl conversion of all of them
+// obviously will not be able to do this with the HCC, which has 2000+ texts
+let first_response = await fetch('./flibl_conversions/first_letter.json')
+let first_json = await first_response.json()
+let first_letter = first_json.sentences
+
+let second_response = await fetch('./flibl_conversions/second_letter.json')
+let second_json = await second_response.json()
+let second_letter = second_json.sentences
+
+let third_response = await fetch('./flibl_conversions/third_letter.json')
+let third_json = await third_response.json()
+let third_letter = third_json.sentences
+
+let fourth_response = await fetch('./flibl_conversions/fourth_letter.json')
+let fourth_json = await fourth_response.json()
+let fourth_letter = fourth_json.sentences
+
+let fifth_response = await fetch('./flibl_conversions/fifth_letter.json')
+let fifth_json = await fifth_response.json()
+let fifth_letter = fifth_json.sentences
+
+let sixth_response = await fetch('./flibl_conversions/sixth_letter.json')
+let sixth_json = await sixth_response.json()
+let sixth_letter = sixth_json.sentences
+
+let seventh_response = await fetch('./flibl_conversions/seventh_letter.json')
+let seventh_json = await seventh_response.json()
+let seventh_letter = seventh_json.sentences
+
+let eighth_response = await fetch('./flibl_conversions/eighth_letter.json')
+let eighth_json = await eighth_response.json()
+let eighth_letter = eighth_json.sentences
+
+let ninth_response = await fetch('./flibl_conversions/ninth_letter.json')
+let ninth_json = await ninth_response.json()
+let ninth_letter = ninth_json.sentences
+
+let tenth_response = await fetch('./flibl_conversions/tenth_letter.json')
+let tenth_json = await tenth_response.json()
+let tenth_letter = tenth_json.sentences
+
+let kasihta_legend_response = await fetch('./flibl_conversions/kasihta_legend.json')
+let kasihta_legend_json = await kasihta_legend_response.json()
+let kasihta_legend_letter = kasihta_legend_json.sentences
+
+// event listeners
+const searchInput = document.getElementById("searchInput");
+searchInput.addEventListener("keyup", renderSearchResults);
+
+const chooseTextCheckboxes = document.getElementsByClassName("chooseText");
+  for (var i = 0; i < chooseTextCheckboxes.length; i++) {
+    chooseTextCheckboxes[i].addEventListener("click", renderSearchResults);
+  }
+
+const checkingBoxes = document.getElementsByClassName("configureContent");
+    for (var i = 0; i < checkingBoxes.length; i++) {
+        checkingBoxes[i].addEventListener("click", renderSearchResults);
     }
-    
-    const askForSwanton = document.getElementById("askForSwanton");
-    const askForGloss = document.getElementById("askForGloss");
-    const askForTranslation = document.getElementById("askForTranslation");
-    const askForNotes = document.getElementById("askForNotes");
-    const configureContent = document.getElementsByClassName("configureContent");
-    for (var i = 0; i < configureContent.length; i++) {
-        configureContent[i].addEventListener("click", renderFullText);
+
+
+
+  function renderSearchResults() {
+
+    textArea.innerHTML = ``
+
+// picking which texts we're going to search through
+let chosenTexts = []
+
+if (firstletter.checked) {
+  chosenTexts.push(first_letter)
+}
+if (secondletter.checked) {
+  chosenTexts.push(second_letter)
+}
+if (thirdletter.checked) {
+  chosenTexts.push(third_letter)
+}
+if (fourthletter.checked) {
+  chosenTexts.push(fourth_letter)
+}
+if (fifthletter.checked) {
+  chosenTexts.push(fifth_letter)
+}
+if (sixthletter.checked) {
+  chosenTexts.push(sixth_letter)
+}
+if (seventhletter.checked) {
+  chosenTexts.push(seventh_letter)
+}
+if (eighthletter.checked) {
+  chosenTexts.push(eighth_letter)
+}
+if (ninthletter.checked) {
+  chosenTexts.push(ninth_letter)
+}
+if (tenthletter.checked) {
+  chosenTexts.push(tenth_letter)
+}
+if (tenthletter.checked) {
+  chosenTexts.push(tenth_letter)
+}
+if (kasihta.checked) {
+    chosenTexts.push(kasihta_legend_letter)
+}
+
+// get the search query
+  const searchInput = document.getElementById('searchInput');
+  const searchFieldOptions = document.getElementById('searchField');
+
+  let value = searchInput.value;
+  if (searchFieldOptions.value == "modern baseline") {
+  value = value.replaceAll('_', '̱');
+  value = value.replaceAll('r', 'ł');
+  value = value.replaceAll('a^', 'â') // looks like the single letter+diacritic got used instead of the separated digraph, so need to fix that in the original texts
+  }
+
+const searchQuery = (() => {
+  return value.toLowerCase()
+})();
+
+console.log(searchQuery);
+
+// picking which sentences to render
+var hitCount = 0
+for (const text of chosenTexts) {
+    for (const sentence of text) {
+        if (searchQuery == "") {
+            renderSentence(sentence)
+        } else {
+            if (searchFieldOptions.value == "modern baseline") {
+                if (sentence["full_text"].includes(searchQuery)) {
+                    renderSentence(sentence)
+                    hitCount += 1
+                } else {}
+            } else if (searchFieldOptions.value == "translation") {
+                if (sentence["translation_en"] && sentence["translation_en"].includes(searchQuery)) {
+                    renderSentence(sentence)
+                    hitCount += 1
+                } else {}
+            } else if (searchFieldOptions.value == "Swanton baseline") {
+                var concatOriginalBaseline = "";
+                for (var word of sentence["original"]) {
+                  concatOriginalBaseline += word["original_transcription"] + " "
+                }
+                if (concatOriginalBaseline.includes(searchQuery)) {
+                    renderSentence(sentence)
+                    hitCount += 1
+                } else {}
+            } else if (searchFieldOptions.value == "Swanton gloss") {
+                var concatOriginalGloss = "";
+                for (var word of sentence["original"]) {
+                  concatOriginalGloss += word["original_gloss"] + " "
+                }
+                if (concatOriginalGloss.includes(searchQuery)) {
+                    renderSentence(sentence)
+                    hitCount += 1
+                } else {}
+            }
+        }
     }
-    
-    import {renderFullText} from './render_full_text.js';
-        </script>
-    </body>
+}
+
+// displaying the number of hits:
+const hitCountIs = document.getElementById("hitCountIs");
+hitCountIs.innerHTML = `(sentences containing your search: ${hitCount})`
+
+}
+
+function chooseAllTexts() {
+    for (var i = 0; i < chooseTextCheckboxes.length; i++) {
+        if (chooseTextCheckboxes[i].checked == false) {
+            chooseTextCheckboxes[i].checked = true
+        }
+    }
+}
+
+// importing the rendering functions
+// import {renderFullText} from './render_full_text.js';
+import {renderSentence} from './render_search_results.js'
+
+    </script>
+</body>

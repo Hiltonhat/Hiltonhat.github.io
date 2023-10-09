@@ -1,11 +1,11 @@
 {
  "flextext": "third_letter.flextext",
- "title_en": "1931 Willie Haney Letters, Pt. 3 [the old dog saves the younger dogs]",
+ "title_en": "1931 Willie Haney Letters, Pt. 03 [the old dog saves the younger dogs]",
  "comment": "\"the old dog and younger dogs envited [sic] by wolfs to feast in order to kill the dogs and the old dog come along and and save the day\"",
  "sentences": [
   {
    "segnum": "1",
-   "full_text": "tho la lemara hochefkot ef-naknosot",
+   "full_text": "tho la lema\u0142a hochefkot ef-naknoshot",
    "translation_en": null,
    "word_list": [
     {
@@ -23,7 +23,7 @@
      "gls": ""
     },
     {
-     "word_text": "lemara",
+     "word_text": "lema\u0142a",
      "word_breakdown": "",
      "morphs": [],
      "pos": "",
@@ -31,15 +31,40 @@
     },
     {
      "word_text": "hochefkot",
-     "word_breakdown": "",
-     "morphs": [],
+     "word_breakdown": "hochefk-ot",
+     "morphs": [
+      {
+       "morph_txt": "hochefk",
+       "morph_gls": "be.named",
+       "morph_type": "stem"
+      },
+      {
+       "morph_txt": "-ot",
+       "morph_gls": "nom",
+       "morph_type": "suffix"
+      }
+     ],
      "pos": "",
      "gls": ""
     },
     {
-     "word_text": "ef-naknosot",
-     "word_breakdown": "",
-     "morphs": [],
+     "word_text": "ef-naknoshot",
+     "word_breakdown": "ef-naknosh-ot",
+     "morphs": [
+      {
+       "morph_txt": "ef-",
+       "morph_type": ""
+      },
+      {
+       "morph_txt": "naknosh",
+       "morph_type": ""
+      },
+      {
+       "morph_txt": "-ot",
+       "morph_gls": "nom",
+       "morph_type": "suffix"
+      }
+     ],
      "pos": "",
      "gls": ""
     }
@@ -119,13 +144,23 @@
   },
   {
    "segnum": "3",
-   "full_text": "efare ochahchopakan opahoson",
+   "full_text": "efa\u0142e ochahchopakan opahoson",
    "translation_en": null,
    "word_list": [
     {
-     "word_text": "efare",
-     "word_breakdown": "",
-     "morphs": [],
+     "word_text": "efa\u0142e",
+     "word_breakdown": "efa-\u0142e",
+     "morphs": [
+      {
+       "morph_txt": "efa",
+       "morph_gls": "dog",
+       "morph_type": "stem"
+      },
+      {
+       "morph_txt": "-\u0142e",
+       "morph_type": ""
+      }
+     ],
      "pos": "",
      "gls": ""
     },
@@ -309,13 +344,23 @@
   },
   {
    "segnum": "7",
-   "full_text": "efare ochahchopakan emanahen",
+   "full_text": "efa\u0142e ochahchopakan emanahen",
    "translation_en": null,
    "word_list": [
     {
-     "word_text": "efare",
-     "word_breakdown": "",
-     "morphs": [],
+     "word_text": "efa\u0142e",
+     "word_breakdown": "efa-\u0142e",
+     "morphs": [
+      {
+       "morph_txt": "efa",
+       "morph_gls": "dog",
+       "morph_type": "stem"
+      },
+      {
+       "morph_txt": "-\u0142e",
+       "morph_type": ""
+      }
+     ],
      "pos": "",
      "gls": ""
     },
@@ -367,7 +412,7 @@
   },
   {
    "segnum": "8",
-   "full_text": "man ommeka lapkot arachek",
+   "full_text": "man ommeka lapkot a\u0142achek",
    "translation_en": null,
    "word_list": [
     {
@@ -414,20 +459,9 @@
      "gls": ""
     },
     {
-     "word_text": "arachek",
-     "word_breakdown": "arach-ek",
-     "morphs": [
-      {
-       "morph_txt": "arach",
-       "morph_gls": "go",
-       "morph_type": "stem"
-      },
-      {
-       "morph_txt": "-ek",
-       "morph_gls": "sr:ss",
-       "morph_type": "suffix"
-      }
-     ],
+     "word_text": "a\u0142achek",
+     "word_breakdown": "",
+     "morphs": [],
      "pos": "",
      "gls": ""
     }
@@ -454,35 +488,20 @@
   },
   {
    "segnum": "9",
-   "full_text": "orchemempekalakas efaroka",
+   "full_text": "o\u0142chemempekalakas efa\u0142oka",
    "translation_en": null,
    "word_list": [
     {
-     "word_text": "orchemempekalakas",
+     "word_text": "o\u0142chemempekalakas",
      "word_breakdown": "",
      "morphs": [],
      "pos": "",
      "gls": ""
     },
     {
-     "word_text": "efaroka",
-     "word_breakdown": "efa-r-oka",
-     "morphs": [
-      {
-       "morph_txt": "efa",
-       "morph_gls": "dog",
-       "morph_type": "stem"
-      },
-      {
-       "morph_txt": "-r",
-       "morph_gls": "pl",
-       "morph_type": "suffix"
-      },
-      {
-       "morph_txt": "-oka",
-       "morph_type": ""
-      }
-     ],
+     "word_text": "efa\u0142oka",
+     "word_breakdown": "",
+     "morphs": [],
      "pos": "",
      "gls": ""
     }
@@ -598,11 +617,11 @@
   },
   {
    "segnum": "12",
-   "full_text": "etemataraktawa mamen",
+   "full_text": "etemata\u0142aktawa mamen",
    "translation_en": null,
    "word_list": [
     {
-     "word_text": "etemataraktawa",
+     "word_text": "etemata\u0142aktawa",
      "word_breakdown": "",
      "morphs": [],
      "pos": "",
@@ -679,7 +698,7 @@
   },
   {
    "segnum": "14",
-   "full_text": "[ page 16] efaroka achonkot arachahomekan",
+   "full_text": "[ page 16] efa\u0142oka achonkot a\u0142achahomekan",
    "translation_en": null,
    "word_list": [
     {
@@ -711,24 +730,9 @@
      "gls": ""
     },
     {
-     "word_text": "efaroka",
-     "word_breakdown": "efa-r-oka",
-     "morphs": [
-      {
-       "morph_txt": "efa",
-       "morph_gls": "dog",
-       "morph_type": "stem"
-      },
-      {
-       "morph_txt": "-r",
-       "morph_gls": "pl",
-       "morph_type": "suffix"
-      },
-      {
-       "morph_txt": "-oka",
-       "morph_type": ""
-      }
-     ],
+     "word_text": "efa\u0142oka",
+     "word_breakdown": "",
+     "morphs": [],
      "pos": "",
      "gls": ""
     },
@@ -740,7 +744,7 @@
      "gls": ""
     },
     {
-     "word_text": "arachahomekan",
+     "word_text": "a\u0142achahomekan",
      "word_breakdown": "",
      "morphs": [],
      "pos": "",
@@ -765,7 +769,7 @@
   },
   {
    "segnum": "15",
-   "full_text": "efnaknose tho la lemara",
+   "full_text": "efnaknose tho la lema\u0142a",
    "translation_en": null,
    "word_list": [
     {
@@ -790,7 +794,7 @@
      "gls": ""
     },
     {
-     "word_text": "lemara",
+     "word_text": "lema\u0142a",
      "word_breakdown": "",
      "morphs": [],
      "pos": "",
@@ -819,11 +823,11 @@
   },
   {
    "segnum": "16",
-   "full_text": "arekon epanak",
+   "full_text": "a\u0142ekon epanak",
    "translation_en": null,
    "word_list": [
     {
-     "word_text": "arekon",
+     "word_text": "a\u0142ekon",
      "word_breakdown": "",
      "morphs": [],
      "pos": "",
@@ -851,7 +855,7 @@
   },
   {
    "segnum": "17",
-   "full_text": "ommehen efare ochahchopakat",
+   "full_text": "ommehen efa\u0142e ochahchopakat",
    "translation_en": null,
    "word_list": [
     {
@@ -862,9 +866,19 @@
      "gls": ""
     },
     {
-     "word_text": "efare",
-     "word_breakdown": "",
-     "morphs": [],
+     "word_text": "efa\u0142e",
+     "word_breakdown": "efa-\u0142e",
+     "morphs": [
+      {
+       "morph_txt": "efa",
+       "morph_gls": "dog",
+       "morph_type": "stem"
+      },
+      {
+       "morph_txt": "-\u0142e",
+       "morph_type": ""
+      }
+     ],
      "pos": "",
      "gls": ""
     },
@@ -1048,7 +1062,7 @@
   },
   {
    "segnum": "22",
-   "full_text": "ma efnaknosoka areyaktawa",
+   "full_text": "ma efnaknosoka a\u0142e\u0331e\u0331yaktawa",
    "translation_en": null,
    "word_list": [
     {
@@ -1072,12 +1086,12 @@
      "gls": ""
     },
     {
-     "word_text": "areyaktawa",
-     "word_breakdown": "arey-kta-wa",
+     "word_text": "a\u0142e\u0331e\u0331yaktawa",
+     "word_breakdown": "a\u0142e\u0331e\u0331ya-kta-wa",
      "morphs": [
       {
-       "morph_txt": "arey",
-       "morph_gls": "leave",
+       "morph_txt": "a\u0142e\u0331e\u0331ya",
+       "morph_gls": "leave:sg",
        "morph_type": "stem"
       },
       {
@@ -1113,13 +1127,23 @@
   },
   {
    "segnum": "23",
-   "full_text": "efare ochahchopaka lapkot",
+   "full_text": "efa\u0142e ochahchopaka lapkot",
    "translation_en": null,
    "word_list": [
     {
-     "word_text": "efare",
-     "word_breakdown": "",
-     "morphs": [],
+     "word_text": "efa\u0142e",
+     "word_breakdown": "efa-\u0142e",
+     "morphs": [
+      {
+       "morph_txt": "efa",
+       "morph_gls": "dog",
+       "morph_type": "stem"
+      },
+      {
+       "morph_txt": "-\u0142e",
+       "morph_type": ""
+      }
+     ],
      "pos": "",
      "gls": ""
     },
@@ -1167,11 +1191,11 @@
   },
   {
    "segnum": "24",
-   "full_text": "arachepahen yopalon",
+   "full_text": "a\u0142achepahen yopalon",
    "translation_en": null,
    "word_list": [
     {
-     "word_text": "arachepahen",
+     "word_text": "a\u0142achepahen",
      "word_breakdown": "",
      "morphs": [],
      "pos": "",
@@ -1199,7 +1223,7 @@
   },
   {
    "segnum": "25",
-   "full_text": "ma efnaknosoka areyaktawa",
+   "full_text": "ma efnaknosoka a\u0142e\u0331e\u0331yaktawa",
    "translation_en": null,
    "word_list": [
     {
@@ -1223,12 +1247,12 @@
      "gls": ""
     },
     {
-     "word_text": "areyaktawa",
-     "word_breakdown": "arey-kta-wa",
+     "word_text": "a\u0142e\u0331e\u0331yaktawa",
+     "word_breakdown": "a\u0142e\u0331e\u0331ya-kta-wa",
      "morphs": [
       {
-       "morph_txt": "arey",
-       "morph_gls": "leave",
+       "morph_txt": "a\u0142e\u0331e\u0331ya",
+       "morph_gls": "leave:sg",
        "morph_type": "stem"
       },
       {
@@ -1400,7 +1424,7 @@
   },
   {
    "segnum": "28",
-   "full_text": "ma efnaknose tho la lemara",
+   "full_text": "ma efnaknose tho la lema\u0142a",
    "translation_en": null,
    "word_list": [
     {
@@ -1438,7 +1462,7 @@
      "gls": ""
     },
     {
-     "word_text": "lemara",
+     "word_text": "lema\u0142a",
      "word_breakdown": "",
      "morphs": [],
      "pos": "",
@@ -1471,16 +1495,16 @@
   },
   {
    "segnum": "29",
-   "full_text": "areyaktawa",
+   "full_text": "a\u0142e\u0331e\u0331yaktawa",
    "translation_en": null,
    "word_list": [
     {
-     "word_text": "areyaktawa",
-     "word_breakdown": "arey-kta-wa",
+     "word_text": "a\u0142e\u0331e\u0331yaktawa",
+     "word_breakdown": "a\u0142e\u0331e\u0331ya-kta-wa",
      "morphs": [
       {
-       "morph_txt": "arey",
-       "morph_gls": "leave",
+       "morph_txt": "a\u0142e\u0331e\u0331ya",
+       "morph_gls": "leave:sg",
        "morph_type": "stem"
       },
       {
@@ -1508,7 +1532,7 @@
   },
   {
    "segnum": "30",
-   "full_text": "mamen efare ochahchopaka",
+   "full_text": "mamen efa\u0142e ochahchopaka",
    "translation_en": null,
    "word_list": [
     {
@@ -1519,9 +1543,19 @@
      "gls": ""
     },
     {
-     "word_text": "efare",
-     "word_breakdown": "",
-     "morphs": [],
+     "word_text": "efa\u0142e",
+     "word_breakdown": "efa-\u0142e",
+     "morphs": [
+      {
+       "morph_txt": "efa",
+       "morph_gls": "dog",
+       "morph_type": "stem"
+      },
+      {
+       "morph_txt": "-\u0142e",
+       "morph_type": ""
+      }
+     ],
      "pos": "",
      "gls": ""
     },
@@ -1551,7 +1585,7 @@
   },
   {
    "segnum": "31",
-   "full_text": "pehkon arachepommehonte",
+   "full_text": "pehkon a\u0142achepommehonte",
    "translation_en": null,
    "word_list": [
     {
@@ -1562,7 +1596,7 @@
      "gls": ""
     },
     {
-     "word_text": "arachepommehonte",
+     "word_text": "a\u0142achepommehonte",
      "word_breakdown": "",
      "morphs": [],
      "pos": "",
@@ -1619,11 +1653,11 @@
   },
   {
    "segnum": "33",
-   "full_text": "osracen yakne chopon",
+   "full_text": "os\u0142achen yakne chopon",
    "translation_en": null,
    "word_list": [
     {
-     "word_text": "osracen",
+     "word_text": "os\u0142achen",
      "word_breakdown": "",
      "morphs": [],
      "pos": "",
@@ -1631,8 +1665,18 @@
     },
     {
      "word_text": "yakne",
-     "word_breakdown": "",
-     "morphs": [],
+     "word_breakdown": "yakn-e",
+     "morphs": [
+      {
+       "morph_txt": "yakn",
+       "morph_type": ""
+      },
+      {
+       "morph_txt": "-e",
+       "morph_gls": "noun",
+       "morph_type": "suffix"
+      }
+     ],
      "pos": "",
      "gls": ""
     },
@@ -1662,7 +1706,7 @@
   },
   {
    "segnum": "34",
-   "full_text": "kilek efare achonkot",
+   "full_text": "kilek efa\u0142e achonkot",
    "translation_en": null,
    "word_list": [
     {
@@ -1673,9 +1717,19 @@
      "gls": ""
     },
     {
-     "word_text": "efare",
-     "word_breakdown": "",
-     "morphs": [],
+     "word_text": "efa\u0142e",
+     "word_breakdown": "efa-\u0142e",
+     "morphs": [
+      {
+       "morph_txt": "efa",
+       "morph_gls": "dog",
+       "morph_type": "stem"
+      },
+      {
+       "morph_txt": "-\u0142e",
+       "morph_type": ""
+      }
+     ],
      "pos": "",
      "gls": ""
     },
@@ -1705,11 +1759,11 @@
   },
   {
    "segnum": "35",
-   "full_text": "eresonapan etonapachot",
+   "full_text": "e\u0142esonapan etonapachot",
    "translation_en": null,
    "word_list": [
     {
-     "word_text": "eresonapan",
+     "word_text": "e\u0142esonapan",
      "word_breakdown": "",
      "morphs": [],
      "pos": "",
@@ -1737,7 +1791,7 @@
   },
   {
    "segnum": "36",
-   "full_text": "opahosoka eren efare",
+   "full_text": "opahosoka e\u0142en efa\u0142e",
    "translation_en": null,
    "word_list": [
     {
@@ -1758,16 +1812,26 @@
      "gls": ""
     },
     {
-     "word_text": "eren",
+     "word_text": "e\u0142en",
      "word_breakdown": "",
      "morphs": [],
      "pos": "",
      "gls": ""
     },
     {
-     "word_text": "efare",
-     "word_breakdown": "",
-     "morphs": [],
+     "word_text": "efa\u0142e",
+     "word_breakdown": "efa-\u0142e",
+     "morphs": [
+      {
+       "morph_txt": "efa",
+       "morph_gls": "dog",
+       "morph_type": "stem"
+      },
+      {
+       "morph_txt": "-\u0142e",
+       "morph_type": ""
+      }
+     ],
      "pos": "",
      "gls": ""
     }
@@ -1790,11 +1854,11 @@
   },
   {
    "segnum": "37",
-   "full_text": "osracen ma yakne kikakon",
+   "full_text": "os\u0142achen ma yakne kikakon",
    "translation_en": null,
    "word_list": [
     {
-     "word_text": "osracen",
+     "word_text": "os\u0142achen",
      "word_breakdown": "",
      "morphs": [],
      "pos": "",
@@ -1815,8 +1879,18 @@
     },
     {
      "word_text": "yakne",
-     "word_breakdown": "",
-     "morphs": [],
+     "word_breakdown": "yakn-e",
+     "morphs": [
+      {
+       "morph_txt": "yakn",
+       "morph_type": ""
+      },
+      {
+       "morph_txt": "-e",
+       "morph_gls": "noun",
+       "morph_type": "suffix"
+      }
+     ],
      "pos": "",
      "gls": ""
     },
@@ -1850,18 +1924,18 @@
   },
   {
    "segnum": "38",
-   "full_text": "ka-arehchek erepach",
+   "full_text": "ka-a\u0142ehchek e\u0142epach",
    "translation_en": null,
    "word_list": [
     {
-     "word_text": "ka-arehchek",
+     "word_text": "ka-a\u0142ehchek",
      "word_breakdown": "",
      "morphs": [],
      "pos": "",
      "gls": ""
     },
     {
-     "word_text": "erepach",
+     "word_text": "e\u0142epach",
      "word_breakdown": "",
      "morphs": [],
      "pos": "",
@@ -1882,7 +1956,7 @@
   },
   {
    "segnum": "39",
-   "full_text": "kahochen efaroka lapkot",
+   "full_text": "kahochen efa\u0142oka lapkot",
    "translation_en": null,
    "word_list": [
     {
@@ -1893,24 +1967,9 @@
      "gls": ""
     },
     {
-     "word_text": "efaroka",
-     "word_breakdown": "efa-r-oka",
-     "morphs": [
-      {
-       "morph_txt": "efa",
-       "morph_gls": "dog",
-       "morph_type": "stem"
-      },
-      {
-       "morph_txt": "-r",
-       "morph_gls": "pl",
-       "morph_type": "suffix"
-      },
-      {
-       "morph_txt": "-oka",
-       "morph_type": ""
-      }
-     ],
+     "word_text": "efa\u0142oka",
+     "word_breakdown": "",
+     "morphs": [],
      "pos": "",
      "gls": ""
     },
@@ -1951,7 +2010,7 @@
   },
   {
    "segnum": "40",
-   "full_text": "[ page 18] mon ka atechek eren",
+   "full_text": "[ page 18] mon ka atechek e\u0142en",
    "translation_en": null,
    "word_list": [
     {
@@ -2004,7 +2063,7 @@
      "gls": ""
     },
     {
-     "word_text": "eren",
+     "word_text": "e\u0142en",
      "word_breakdown": "",
      "morphs": [],
      "pos": "",
@@ -2065,7 +2124,7 @@
   },
   {
    "segnum": "42",
-   "full_text": "achopoknak erek yat",
+   "full_text": "achopoknak e\u0142ek yat",
    "translation_en": null,
    "word_list": [
     {
@@ -2076,7 +2135,7 @@
      "gls": ""
     },
     {
-     "word_text": "erek",
+     "word_text": "e\u0142ek",
      "word_breakdown": "",
      "morphs": [],
      "pos": "",
@@ -2088,8 +2147,7 @@
      "morphs": [
       {
        "morph_txt": "yat",
-       "morph_gls": "person",
-       "morph_type": "stem"
+       "morph_type": ""
       }
      ],
      "pos": "",
@@ -2114,7 +2172,7 @@
   },
   {
    "segnum": "43",
-   "full_text": "chelaphonkommehos efaron",
+   "full_text": "chelaphonkommehos efa\u0142on",
    "translation_en": null,
    "word_list": [
     {
@@ -2125,8 +2183,8 @@
      "gls": ""
     },
     {
-     "word_text": "efaron",
-     "word_breakdown": "efa-r-on",
+     "word_text": "efa\u0142on",
+     "word_breakdown": "efa-\u0142-on",
      "morphs": [
       {
        "morph_txt": "efa",
@@ -2134,7 +2192,7 @@
        "morph_type": "stem"
       },
       {
-       "morph_txt": "-r",
+       "morph_txt": "-\u0142",
        "morph_gls": "pl",
        "morph_type": "suffix"
       },
@@ -2196,8 +2254,7 @@
      "morphs": [
       {
        "morph_txt": "yat",
-       "morph_gls": "person",
-       "morph_type": "stem"
+       "morph_type": ""
       }
      ],
      "pos": "",
@@ -2254,7 +2311,7 @@
   },
   {
    "segnum": "46",
-   "full_text": "tho la lemara yopalon",
+   "full_text": "tho la lema\u0142a yopalon",
    "translation_en": null,
    "word_list": [
     {
@@ -2272,7 +2329,7 @@
      "gls": ""
     },
     {
-     "word_text": "lemara",
+     "word_text": "lema\u0142a",
      "word_breakdown": "",
      "morphs": [],
      "pos": "",
@@ -2308,11 +2365,11 @@
   },
   {
    "segnum": "47",
-   "full_text": "orahen mak yakne kikon",
+   "full_text": "o\u0142ahen mak yakne kikon",
    "translation_en": null,
    "word_list": [
     {
-     "word_text": "orahen",
+     "word_text": "o\u0142ahen",
      "word_breakdown": "",
      "morphs": [],
      "pos": "",
@@ -2327,8 +2384,18 @@
     },
     {
      "word_text": "yakne",
-     "word_breakdown": "",
-     "morphs": [],
+     "word_breakdown": "yakn-e",
+     "morphs": [
+      {
+       "morph_txt": "yakn",
+       "morph_type": ""
+      },
+      {
+       "morph_txt": "-e",
+       "morph_gls": "noun",
+       "morph_type": "suffix"
+      }
+     ],
      "pos": "",
      "gls": ""
     },
@@ -2448,28 +2515,13 @@
   },
   {
    "segnum": "50",
-   "full_text": "efaroka ma yakne kikon",
+   "full_text": "efa\u0142oka ma yakne kikon",
    "translation_en": null,
    "word_list": [
     {
-     "word_text": "efaroka",
-     "word_breakdown": "efa-r-oka",
-     "morphs": [
-      {
-       "morph_txt": "efa",
-       "morph_gls": "dog",
-       "morph_type": "stem"
-      },
-      {
-       "morph_txt": "-r",
-       "morph_gls": "pl",
-       "morph_type": "suffix"
-      },
-      {
-       "morph_txt": "-oka",
-       "morph_type": ""
-      }
-     ],
+     "word_text": "efa\u0142oka",
+     "word_breakdown": "",
+     "morphs": [],
      "pos": "",
      "gls": ""
     },
@@ -2488,8 +2540,18 @@
     },
     {
      "word_text": "yakne",
-     "word_breakdown": "",
-     "morphs": [],
+     "word_breakdown": "yakn-e",
+     "morphs": [
+      {
+       "morph_txt": "yakn",
+       "morph_type": ""
+      },
+      {
+       "morph_txt": "-e",
+       "morph_gls": "noun",
+       "morph_type": "suffix"
+      }
+     ],
      "pos": "",
      "gls": ""
     },
@@ -2521,11 +2583,11 @@
   },
   {
    "segnum": "51",
-   "full_text": "ka-eren yat chelaphonkehos",
+   "full_text": "ka-e\u0142en yat chelaphonkehos",
    "translation_en": null,
    "word_list": [
     {
-     "word_text": "ka-eren",
+     "word_text": "ka-e\u0142en",
      "word_breakdown": "",
      "morphs": [],
      "pos": "",
@@ -2537,8 +2599,7 @@
      "morphs": [
       {
        "morph_txt": "yat",
-       "morph_gls": "person",
-       "morph_type": "stem"
+       "morph_type": ""
       }
      ],
      "pos": "",
@@ -2586,8 +2647,7 @@
      "morphs": [
       {
        "morph_txt": "yat",
-       "morph_gls": "person",
-       "morph_type": "stem"
+       "morph_type": ""
       }
      ],
      "pos": "",
@@ -2619,7 +2679,7 @@
   },
   {
    "segnum": "53",
-   "full_text": "[ page 19] efaroka enkan maan omeka",
+   "full_text": "[ page 19] efa\u0142oka enkan maan omeka",
    "translation_en": null,
    "word_list": [
     {
@@ -2651,24 +2711,9 @@
      "gls": ""
     },
     {
-     "word_text": "efaroka",
-     "word_breakdown": "efa-r-oka",
-     "morphs": [
-      {
-       "morph_txt": "efa",
-       "morph_gls": "dog",
-       "morph_type": "stem"
-      },
-      {
-       "morph_txt": "-r",
-       "morph_gls": "pl",
-       "morph_type": "suffix"
-      },
-      {
-       "morph_txt": "-oka",
-       "morph_type": ""
-      }
-     ],
+     "word_text": "efa\u0142oka",
+     "word_breakdown": "",
+     "morphs": [],
      "pos": "",
      "gls": ""
     },
@@ -2726,7 +2771,7 @@
   },
   {
    "segnum": "54",
-   "full_text": "opahos-hotekat ramek",
+   "full_text": "opahos-hotekat \u0142amek",
    "translation_en": null,
    "word_list": [
     {
@@ -2737,18 +2782,9 @@
      "gls": ""
     },
     {
-     "word_text": "ramek",
-     "word_breakdown": "rame-k",
-     "morphs": [
-      {
-       "morph_txt": "rame",
-       "morph_type": ""
-      },
-      {
-       "morph_txt": "-k",
-       "morph_type": ""
-      }
-     ],
+     "word_text": "\u0142amek",
+     "word_breakdown": "",
+     "morphs": [],
      "pos": "",
      "gls": ""
     }
@@ -2803,7 +2839,7 @@
   },
   {
    "segnum": "56",
-   "full_text": "opahosnaknosot lokhacalek",
+   "full_text": "opahosnaknosot lokhachalek",
    "translation_en": null,
    "word_list": [
     {
@@ -2814,7 +2850,7 @@
      "gls": ""
     },
     {
-     "word_text": "lokhacalek",
+     "word_text": "lokhachalek",
      "word_breakdown": "",
      "morphs": [],
      "pos": "",
@@ -2926,7 +2962,7 @@
   },
   {
    "segnum": "59",
-   "full_text": "aklek ochapare",
+   "full_text": "aklek ochapa\u0142e",
    "translation_en": null,
    "word_list": [
     {
@@ -2947,7 +2983,7 @@
      "gls": ""
     },
     {
-     "word_text": "ochapare",
+     "word_text": "ochapa\u0142e",
      "word_breakdown": "",
      "morphs": [],
      "pos": "",
@@ -3032,7 +3068,7 @@
   },
   {
    "segnum": "62",
-   "full_text": "yame orotommes mate",
+   "full_text": "yame o\u0142otommes mate",
    "translation_en": null,
    "word_list": [
     {
@@ -3043,7 +3079,7 @@
      "gls": ""
     },
     {
-     "word_text": "orotommes",
+     "word_text": "o\u0142otommes",
      "word_breakdown": "",
      "morphs": [],
      "pos": "",
@@ -3200,7 +3236,7 @@
   },
   {
    "segnum": "66",
-   "full_text": "[ page 20] aponehen efaroka",
+   "full_text": "[ page 20] aponehen efa\u0142oka",
    "translation_en": null,
    "word_list": [
     {
@@ -3254,24 +3290,9 @@
      "gls": ""
     },
     {
-     "word_text": "efaroka",
-     "word_breakdown": "efa-r-oka",
-     "morphs": [
-      {
-       "morph_txt": "efa",
-       "morph_gls": "dog",
-       "morph_type": "stem"
-      },
-      {
-       "morph_txt": "-r",
-       "morph_gls": "pl",
-       "morph_type": "suffix"
-      },
-      {
-       "morph_txt": "-oka",
-       "morph_type": ""
-      }
-     ],
+     "word_text": "efa\u0142oka",
+     "word_breakdown": "",
+     "morphs": [],
      "pos": "",
      "gls": ""
     }
@@ -3290,7 +3311,7 @@
   },
   {
    "segnum": "67",
-   "full_text": "helihlokachek ranesyachekoka-akle,",
+   "full_text": "helihlokachek \u0142anesyachekoka-akle,",
    "translation_en": null,
    "word_list": [
     {
@@ -3301,7 +3322,7 @@
      "gls": ""
     },
     {
-     "word_text": "ranesyachekoka-akle",
+     "word_text": "\u0142anesyachekoka-akle",
      "word_breakdown": "",
      "morphs": [],
      "pos": "",
@@ -3404,33 +3425,18 @@
   },
   {
    "segnum": "70",
-   "full_text": "efaroka ranesyacheteh sonapak",
+   "full_text": "efa\u0142oka \u0142anesyacheteh sonapak",
    "translation_en": null,
    "word_list": [
     {
-     "word_text": "efaroka",
-     "word_breakdown": "efa-r-oka",
-     "morphs": [
-      {
-       "morph_txt": "efa",
-       "morph_gls": "dog",
-       "morph_type": "stem"
-      },
-      {
-       "morph_txt": "-r",
-       "morph_gls": "pl",
-       "morph_type": "suffix"
-      },
-      {
-       "morph_txt": "-oka",
-       "morph_type": ""
-      }
-     ],
+     "word_text": "efa\u0142oka",
+     "word_breakdown": "",
+     "morphs": [],
      "pos": "",
      "gls": ""
     },
     {
-     "word_text": "ranesyacheteh",
+     "word_text": "\u0142anesyacheteh",
      "word_breakdown": "",
      "morphs": [],
      "pos": "",
@@ -3458,7 +3464,7 @@
   },
   {
    "segnum": "71",
-   "full_text": "helihlokachek eren",
+   "full_text": "helihlokachek e\u0142en",
    "translation_en": null,
    "word_list": [
     {
@@ -3469,7 +3475,7 @@
      "gls": ""
     },
     {
-     "word_text": "eren",
+     "word_text": "e\u0142en",
      "word_breakdown": "",
      "morphs": [],
      "pos": "",
@@ -3490,7 +3496,7 @@
   },
   {
    "segnum": "72",
-   "full_text": "ma efnaknose tho la lemare",
+   "full_text": "ma efnaknose tho la lema\u0142e",
    "translation_en": null,
    "word_list": [
     {
@@ -3528,7 +3534,7 @@
      "gls": ""
     },
     {
-     "word_text": "lemare",
+     "word_text": "lema\u0142e",
      "word_breakdown": "",
      "morphs": [],
      "pos": "",
@@ -3652,11 +3658,11 @@
   },
   {
    "segnum": "75",
-   "full_text": "opahosochar chemoksehochek",
+   "full_text": "opahosocha\u0142 chemoksehochek",
    "translation_en": null,
    "word_list": [
     {
-     "word_text": "opahosochar",
+     "word_text": "opahosocha\u0142",
      "word_breakdown": "",
      "morphs": [],
      "pos": "",
@@ -4026,7 +4032,7 @@
   },
   {
    "segnum": "84",
-   "full_text": "enkak enskchoka rok",
+   "full_text": "enkak enskchoka \u0142ok",
    "translation_en": null,
    "word_list": [
     {
@@ -4054,7 +4060,7 @@
      "gls": ""
     },
     {
-     "word_text": "rok",
+     "word_text": "\u0142ok",
      "word_breakdown": "",
      "morphs": [],
      "pos": "",
@@ -4122,7 +4128,7 @@
   },
   {
    "segnum": "86",
-   "full_text": "lokeesek rok yan talankas",
+   "full_text": "lokeesek \u0142ok yan talankas",
    "translation_en": null,
    "word_list": [
     {
@@ -4133,7 +4139,7 @@
      "gls": ""
     },
     {
-     "word_text": "rok",
+     "word_text": "\u0142ok",
      "word_breakdown": "",
      "morphs": [],
      "pos": "",
@@ -4265,7 +4271,7 @@
   },
   {
    "segnum": "89",
-   "full_text": "opahos hace ramosen",
+   "full_text": "opahos hache \u0142amosen",
    "translation_en": null,
    "word_list": [
     {
@@ -4276,14 +4282,20 @@
      "gls": ""
     },
     {
-     "word_text": "hace",
-     "word_breakdown": "",
-     "morphs": [],
+     "word_text": "hache",
+     "word_breakdown": "hache",
+     "morphs": [
+      {
+       "morph_txt": "hache",
+       "morph_gls": "creek",
+       "morph_type": "stem"
+      }
+     ],
      "pos": "",
      "gls": ""
     },
     {
-     "word_text": "ramosen",
+     "word_text": "\u0142amosen",
      "word_breakdown": "",
      "morphs": [],
      "pos": "",
@@ -4442,7 +4454,7 @@
   },
   {
    "segnum": "93",
-   "full_text": "opahosoka maraslechek",
+   "full_text": "opahosoka ma\u0142aslechek",
    "translation_en": null,
    "word_list": [
     {
@@ -4463,7 +4475,7 @@
      "gls": ""
     },
     {
-     "word_text": "maraslechek",
+     "word_text": "ma\u0142aslechek",
      "word_breakdown": "",
      "morphs": [],
      "pos": "",
@@ -4484,7 +4496,7 @@
   },
   {
    "segnum": "94",
-   "full_text": "lapkot motakahen efaroka",
+   "full_text": "lapkot motakahen efa\u0142oka",
    "translation_en": null,
    "word_list": [
     {
@@ -4513,24 +4525,9 @@
      "gls": ""
     },
     {
-     "word_text": "efaroka",
-     "word_breakdown": "efa-r-oka",
-     "morphs": [
-      {
-       "morph_txt": "efa",
-       "morph_gls": "dog",
-       "morph_type": "stem"
-      },
-      {
-       "morph_txt": "-r",
-       "morph_gls": "pl",
-       "morph_type": "suffix"
-      },
-      {
-       "morph_txt": "-oka",
-       "morph_type": ""
-      }
-     ],
+     "word_text": "efa\u0142oka",
+     "word_breakdown": "",
+     "morphs": [],
      "pos": "",
      "gls": ""
     }
@@ -4553,7 +4550,7 @@
   },
   {
    "segnum": "95",
-   "full_text": "ma yakne kike ka-erehonka",
+   "full_text": "ma yakne kike ka-e\u0142ehonka",
    "translation_en": null,
    "word_list": [
     {
@@ -4571,8 +4568,18 @@
     },
     {
      "word_text": "yakne",
-     "word_breakdown": "",
-     "morphs": [],
+     "word_breakdown": "yakn-e",
+     "morphs": [
+      {
+       "morph_txt": "yakn",
+       "morph_type": ""
+      },
+      {
+       "morph_txt": "-e",
+       "morph_gls": "noun",
+       "morph_type": "suffix"
+      }
+     ],
      "pos": "",
      "gls": ""
     },
@@ -4584,7 +4591,7 @@
      "gls": ""
     },
     {
-     "word_text": "ka-erehonka",
+     "word_text": "ka-e\u0142ehonka",
      "word_breakdown": "",
      "morphs": [],
      "pos": "",
@@ -4617,11 +4624,11 @@
   },
   {
    "segnum": "96",
-   "full_text": "ranesyachek lapkot",
+   "full_text": "\u0142anesyachek lapkot",
    "translation_en": null,
    "word_list": [
     {
-     "word_text": "ranesyachek",
+     "word_text": "\u0142anesyachek",
      "word_breakdown": "",
      "morphs": [],
      "pos": "",
@@ -4703,7 +4710,7 @@
   {
    "segnum": "98",
    "full_text": "efnaknose nanomechkotes",
-   "translation_en": null,
+   "translation_en": "old dog, you have no purpose",
    "word_list": [
     {
      "word_text": "efnaknose",
@@ -4714,8 +4721,32 @@
     },
     {
      "word_text": "nanomechkotes",
-     "word_breakdown": "",
-     "morphs": [],
+     "word_breakdown": "nanom-echkao-te-s",
+     "morphs": [
+      {
+       "morph_txt": "nanom",
+       "morph_type": ""
+      },
+      {
+       "morph_txt": "-echka",
+       "morph_gls": "2sI",
+       "morph_type": "suffix"
+      },
+      {
+       "morph_txt": "o",
+       "morph_type": ""
+      },
+      {
+       "morph_txt": "-te",
+       "morph_gls": "neg",
+       "morph_type": "suffix"
+      },
+      {
+       "morph_txt": "-s",
+       "morph_gls": "dec",
+       "morph_type": "suffix"
+      }
+     ],
      "pos": "",
      "gls": ""
     }
@@ -4783,7 +4814,7 @@
   },
   {
    "segnum": "100",
-   "full_text": "kachek efaroka aracepah-hantameska",
+   "full_text": "kachek efa\u0142oka a\u0142achepah-hantameska",
    "translation_en": null,
    "word_list": [
     {
@@ -4805,29 +4836,14 @@
      "gls": ""
     },
     {
-     "word_text": "efaroka",
-     "word_breakdown": "efa-r-oka",
-     "morphs": [
-      {
-       "morph_txt": "efa",
-       "morph_gls": "dog",
-       "morph_type": "stem"
-      },
-      {
-       "morph_txt": "-r",
-       "morph_gls": "pl",
-       "morph_type": "suffix"
-      },
-      {
-       "morph_txt": "-oka",
-       "morph_type": ""
-      }
-     ],
+     "word_text": "efa\u0142oka",
+     "word_breakdown": "",
+     "morphs": [],
      "pos": "",
      "gls": ""
     },
     {
-     "word_text": "aracepah-hantameska",
+     "word_text": "a\u0142achepah-hantameska",
      "word_breakdown": "",
      "morphs": [],
      "pos": "",
@@ -4877,18 +4893,29 @@
   },
   {
    "segnum": "102",
-   "full_text": "enokereteh sonapak",
+   "full_text": "enok\u00e9\u0331e\u0331\u0142ete shonapak",
    "translation_en": null,
    "word_list": [
     {
-     "word_text": "enokereteh",
-     "word_breakdown": "",
-     "morphs": [],
+     "word_text": "enok\u00e9\u0331e\u0331\u0142ete",
+     "word_breakdown": "enok\u00e9\u0331e\u0331\u0142e-te",
+     "morphs": [
+      {
+       "morph_txt": "enok\u00e9\u0331e\u0331\u0142e",
+       "morph_gls": "stop",
+       "morph_type": "stem"
+      },
+      {
+       "morph_txt": "-te",
+       "morph_gls": "neg",
+       "morph_type": "suffix"
+      }
+     ],
      "pos": "",
      "gls": ""
     },
     {
-     "word_text": "sonapak",
+     "word_text": "shonapak",
      "word_breakdown": "",
      "morphs": [],
      "pos": "",
@@ -4909,48 +4936,27 @@
   },
   {
    "segnum": "103",
-   "full_text": "arak orak efar achonkon",
+   "full_text": "a\u0142ak o\u0142ak efa\u0142 achonkon",
    "translation_en": null,
    "word_list": [
     {
-     "word_text": "arak",
-     "word_breakdown": "ar-ak",
-     "morphs": [
-      {
-       "morph_txt": "ar",
-       "morph_gls": "go",
-       "morph_type": "stem"
-      },
-      {
-       "morph_txt": "-ak",
-       "morph_type": ""
-      }
-     ],
-     "pos": "",
-     "gls": ""
-    },
-    {
-     "word_text": "orak",
+     "word_text": "a\u0142ak",
      "word_breakdown": "",
      "morphs": [],
      "pos": "",
      "gls": ""
     },
     {
-     "word_text": "efar",
-     "word_breakdown": "efa-r",
-     "morphs": [
-      {
-       "morph_txt": "efa",
-       "morph_gls": "dog",
-       "morph_type": "stem"
-      },
-      {
-       "morph_txt": "-r",
-       "morph_gls": "pl",
-       "morph_type": "suffix"
-      }
-     ],
+     "word_text": "o\u0142ak",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "efa\u0142",
+     "word_breakdown": "",
+     "morphs": [],
      "pos": "",
      "gls": ""
     },

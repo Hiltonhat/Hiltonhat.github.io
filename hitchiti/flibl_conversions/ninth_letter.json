@@ -1,0 +1,4118 @@
+{
+ "flextext": "ninth_letter.flextext",
+ "title_en": "1931 Willie Haney Letters, Pt. 09 [old man and daughter]",
+ "comment": "\"an old man Big town by the name had a young Daughter\"",
+ "sentences": [
+  {
+   "segnum": "1",
+   "full_text": "Okle chope chokolektus ostike",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Okle",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "chope",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "chokolektus",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "ostike",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "okle",
+     "original_gloss": "town or Big town"
+    },
+    {
+     "original_transcription": "chope",
+     "original_gloss": "big"
+    },
+    {
+     "original_transcription": "chokolektus",
+     "original_gloss": "use to live"
+    },
+    {
+     "original_transcription": "ostike",
+     "original_gloss": "doughter [sic]"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "2",
+   "full_text": "E\u0142ecot yaate achonkot ma tikoka",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "E\u0142ecot",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "yaate",
+     "word_breakdown": "yaat-e",
+     "morphs": [
+      {
+       "morph_txt": "yaat",
+       "morph_gls": "person",
+       "morph_type": "stem"
+      },
+      {
+       "morph_txt": "-e",
+       "morph_gls": "noun",
+       "morph_type": "suffix"
+      }
+     ],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "achonkot",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "ma",
+     "word_breakdown": "ma",
+     "morphs": [
+      {
+       "morph_txt": "ma",
+       "morph_gls": "that",
+       "morph_type": "stem"
+      }
+     ],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "tikoka",
+     "word_breakdown": "tik-oka",
+     "morphs": [
+      {
+       "morph_txt": "tik",
+       "morph_gls": "girl",
+       "morph_type": "stem"
+      },
+      {
+       "morph_txt": "-oka",
+       "morph_type": ""
+      }
+     ],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "ethechot",
+     "original_gloss": "has"
+    },
+    {
+     "original_transcription": "yate",
+     "original_gloss": "Person"
+    },
+    {
+     "original_transcription": "achonkot",
+     "original_gloss": "many"
+    },
+    {
+     "original_transcription": "ma",
+     "original_gloss": "that"
+    },
+    {
+     "original_transcription": "tikoka",
+     "original_gloss": "Girl"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "3",
+   "full_text": "Ahaklepak omalekma okle chope",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Ahaklepak",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "omalekma",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "okle",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "chope",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "ahaklepak",
+     "original_gloss": "ask"
+    },
+    {
+     "original_transcription": "omalekma",
+     "original_gloss": "for it"
+    },
+    {
+     "original_transcription": "okle",
+     "original_gloss": "town"
+    },
+    {
+     "original_transcription": "chope",
+     "original_gloss": "Big"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "4",
+   "full_text": "Ma tikoka yate enhoncheteh-sonapak",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Ma",
+     "word_breakdown": "ma",
+     "morphs": [
+      {
+       "morph_txt": "ma",
+       "morph_gls": "that",
+       "morph_type": "stem"
+      }
+     ],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "tikoka",
+     "word_breakdown": "tik-oka",
+     "morphs": [
+      {
+       "morph_txt": "tik",
+       "morph_gls": "girl",
+       "morph_type": "stem"
+      },
+      {
+       "morph_txt": "-oka",
+       "morph_type": ""
+      }
+     ],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "yate",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "enhoncheteh-sonapak",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "ma",
+     "original_gloss": "that"
+    },
+    {
+     "original_transcription": "tikoka",
+     "original_gloss": "Girl"
+    },
+    {
+     "original_transcription": "yate",
+     "original_gloss": "Person"
+    },
+    {
+     "original_transcription": "enhoncheteh",
+     "original_gloss": "wont let"
+    },
+    {
+     "original_transcription": "sonapak",
+     "original_gloss": "out"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "5",
+   "full_text": "Chokolektus mamen a\u0142alektus",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Chokolektus",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "mamen",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "a\u0142alektus",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "chokolektus",
+     "original_gloss": "use to live"
+    },
+    {
+     "original_transcription": "marmen",
+     "original_gloss": "than"
+    },
+    {
+     "original_transcription": "athalektus",
+     "original_gloss": "I went"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "6",
+   "full_text": "Falaske \u0142amen okle hume ahakihlek",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Falaske",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "\u0142amen",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "okle",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "hume",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "ahakihlek",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "falaske",
+     "original_gloss": "Bottle"
+    },
+    {
+     "original_transcription": "tharmen",
+     "original_gloss": "one"
+    },
+    {
+     "original_transcription": "oke",
+     "original_gloss": "Bitter"
+    },
+    {
+     "original_transcription": "home",
+     "original_gloss": "water or whiskey"
+    },
+    {
+     "original_transcription": "ahakihlek",
+     "original_gloss": "I got it"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "7",
+   "full_text": "Hopanak falaske eepe afesahkak",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Hopanak",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "falaske",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "eepe",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "afesahkak",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "hopanak",
+     "original_gloss": "sing"
+    },
+    {
+     "original_transcription": "falaske",
+     "original_gloss": "Bottle"
+    },
+    {
+     "original_transcription": "Eepe",
+     "original_gloss": "nose"
+    },
+    {
+     "original_transcription": "afesahkak",
+     "original_gloss": "breath"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "8",
+   "full_text": "Kawaye lamponkochee onchokolek",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Kawaye",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "lamponkochee",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "onchokolek",
+     "word_breakdown": "onchoko-le-ek",
+     "morphs": [
+      {
+       "morph_txt": "onchoko",
+       "morph_gls": "ride",
+       "morph_type": "stem"
+      },
+      {
+       "morph_txt": "-le",
+       "morph_gls": "1sI",
+       "morph_type": "suffix"
+      },
+      {
+       "morph_txt": "-ek",
+       "morph_gls": "sr:ss",
+       "morph_type": "suffix"
+      }
+     ],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "Kawaye",
+     "original_gloss": "horse"
+    },
+    {
+     "original_transcription": "lamponkochee",
+     "original_gloss": "sounding stomach"
+    },
+    {
+     "original_transcription": "onchokolek",
+     "original_gloss": "got on"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "9",
+   "full_text": "A\u0142alektus okle chope emo\u0142ak",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "A\u0142alektus",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "okle",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "chope",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "emo\u0142ak",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "athalektus",
+     "original_gloss": "I went"
+    },
+    {
+     "original_transcription": "okle",
+     "original_gloss": "town"
+    },
+    {
+     "original_transcription": "chope",
+     "original_gloss": "Big"
+    },
+    {
+     "original_transcription": "emothak",
+     "original_gloss": "got there"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "10",
+   "full_text": "Anyat-honle chokolechko kachelektus",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Anyat-honle",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "chokolechko",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "kachelektus",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "anyat",
+     "original_gloss": "my agent"
+    },
+    {
+     "original_transcription": "honle",
+     "original_gloss": ""
+    },
+    {
+     "original_transcription": "chokolecko",
+     "original_gloss": "still living"
+    },
+    {
+     "original_transcription": "kachelektus",
+     "original_gloss": "I said to him"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "11",
+   "full_text": "Chokolepales chakachek chokolepse",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Chokolepales",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "chakachek",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "chokolepse",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "chokolepales",
+     "original_gloss": "yes I am still live"
+    },
+    {
+     "original_transcription": "chakachek",
+     "original_gloss": "said to me"
+    },
+    {
+     "original_transcription": "chokolepse",
+     "original_gloss": "sat down"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "12",
+   "full_text": "Chakachektus mamen chokolek",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Chakachektus",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "mamen",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "chokolek",
+     "word_breakdown": "chokol-ek",
+     "morphs": [
+      {
+       "morph_txt": "chokol",
+       "morph_gls": "sit",
+       "morph_type": "stem"
+      },
+      {
+       "morph_txt": "-ek",
+       "morph_gls": "sr:ss",
+       "morph_type": "suffix"
+      }
+     ],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "chakachektus",
+     "original_gloss": "said to me"
+    },
+    {
+     "original_transcription": "marmen",
+     "original_gloss": "than"
+    },
+    {
+     "original_transcription": "chokolek",
+     "original_gloss": "I set"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "13",
+   "full_text": "[ page 67] Anyat honle yan falaske eschokoles",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "[",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "page",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "67",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "]",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "Anyat",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "honle",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "yan",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "falaske",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "eschokoles",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "anyat",
+     "original_gloss": "my agent"
+    },
+    {
+     "original_transcription": "honle",
+     "original_gloss": ""
+    },
+    {
+     "original_transcription": "(yan",
+     "original_gloss": ""
+    },
+    {
+     "original_transcription": "falaske)",
+     "original_gloss": "here is Bottle"
+    },
+    {
+     "original_transcription": "eschokoles",
+     "original_gloss": "setting"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "14",
+   "full_text": "Eskepse kachelektus okle chope",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Eskepse",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "kachelektus",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "okle",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "chope",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "eskepse",
+     "original_gloss": "drink"
+    },
+    {
+     "original_transcription": "kachelektus",
+     "original_gloss": "I said to him"
+    },
+    {
+     "original_transcription": "okle",
+     "original_gloss": "town"
+    },
+    {
+     "original_transcription": "chope",
+     "original_gloss": "Big"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "15",
+   "full_text": "Oke home eskek chokolek aponkoka",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Oke",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "home",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "eskek",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "chokolek",
+     "word_breakdown": "chokol-ek",
+     "morphs": [
+      {
+       "morph_txt": "chokol",
+       "morph_gls": "sit",
+       "morph_type": "stem"
+      },
+      {
+       "morph_txt": "-ek",
+       "morph_gls": "sr:ss",
+       "morph_type": "suffix"
+      }
+     ],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "aponkoka",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "oke",
+     "original_gloss": "water whiskey"
+    },
+    {
+     "original_transcription": "home",
+     "original_gloss": "Bitter"
+    },
+    {
+     "original_transcription": "eskek",
+     "original_gloss": "he drink"
+    },
+    {
+     "original_transcription": "chokolek",
+     "original_gloss": "set"
+    },
+    {
+     "original_transcription": "aponkoka",
+     "original_gloss": "the talk"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "16",
+   "full_text": "Esemahe\u0142ak chokolen wekekan",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Esemahe\u0142ak",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "chokolen",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "wekekan",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "esemahethak,",
+     "original_gloss": "is good for him"
+    },
+    {
+     "original_transcription": "chokolen",
+     "original_gloss": "setting"
+    },
+    {
+     "original_transcription": "wekekan",
+     "original_gloss": "Both setting"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "17",
+   "full_text": "Ostike ayyan heya tike chenhonlon omahahko",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Ostike",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "ayyan",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "heya",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "tike",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "chenhonlon",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "omahahko",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "ostike",
+     "original_gloss": "his doughter [sic]"
+    },
+    {
+     "original_transcription": "ayyan",
+     "original_gloss": "about"
+    },
+    {
+     "original_transcription": "heya",
+     "original_gloss": "this"
+    },
+    {
+     "original_transcription": "tike",
+     "original_gloss": "Girl"
+    },
+    {
+     "original_transcription": "(chenhonlon",
+     "original_gloss": "not willing to"
+    },
+    {
+     "original_transcription": "omahahko)",
+     "original_gloss": "give up"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "18",
+   "full_text": "Kachelektus mamen",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Kachelektus",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "mamen",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "kachelektus",
+     "original_gloss": "I said to him"
+    },
+    {
+     "original_transcription": "marmen",
+     "original_gloss": "than"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "19",
+   "full_text": "Onkakakat anhonlohahkales yaate",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Onkakakat",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "anhonlohahkales",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "yaate",
+     "word_breakdown": "yaat-e",
+     "morphs": [
+      {
+       "morph_txt": "yaat",
+       "morph_gls": "person",
+       "morph_type": "stem"
+      },
+      {
+       "morph_txt": "-e",
+       "morph_gls": "noun",
+       "morph_type": "suffix"
+      }
+     ],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "onkakat",
+     "original_gloss": "he said"
+    },
+    {
+     "original_transcription": "anhonlohahkales",
+     "original_gloss": "I was not willing"
+    },
+    {
+     "original_transcription": "yate",
+     "original_gloss": "Person"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "20",
+   "full_text": "Honakne kowachop-hache yosee",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Honakne",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "kowachop-hache",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "yosee",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "honakne",
+     "original_gloss": "male"
+    },
+    {
+     "original_transcription": "kowachop",
+     "original_gloss": "Tiger"
+    },
+    {
+     "original_transcription": "hache",
+     "original_gloss": "tail"
+    },
+    {
+     "original_transcription": "yosee",
+     "original_gloss": "head"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "21",
+   "full_text": "Afaschee taka\u0142kate yawlechekan",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Afaschee",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "taka\u0142kate",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "yawlechekan",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "afaschee",
+     "original_gloss": "on"
+    },
+    {
+     "original_transcription": "takathkateh",
+     "original_gloss": "not work"
+    },
+    {
+     "original_transcription": "yawlechekan",
+     "original_gloss": "them kind"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "22",
+   "full_text": "Emenhonlak ohahkales mameska",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Emenhonlak",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "ohahkales",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "mameska",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "emenhonlak",
+     "original_gloss": "I am not willing"
+    },
+    {
+     "original_transcription": "ohahkales)",
+     "original_gloss": "of that kind"
+    },
+    {
+     "original_transcription": "marmeska",
+     "original_gloss": "But"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "23",
+   "full_text": "Chehnoka chemenhonlatikos",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Chehnoka",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "chemenhonlatikos",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "chehnoka",
+     "original_gloss": "for you"
+    },
+    {
+     "original_transcription": "chemenhonlatikos",
+     "original_gloss": "I wont refuse you"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "24",
+   "full_text": "Chakachektus",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Chakachektus",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "chakachektus",
+     "original_gloss": "said to me"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "25",
+   "full_text": "[ page 68] Nanohmekos aklechkos",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "[",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "page",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "68",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "]",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "Nanohmekos",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "aklechkos",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "nanohmekos",
+     "original_gloss": "why"
+    },
+    {
+     "original_transcription": "aklechkos",
+     "original_gloss": "Idea"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "26",
+   "full_text": "Chakachektus emayamkepalekos",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Chakachektus",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "emayamkepalekos",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "chakachektus",
+     "original_gloss": "said to me"
+    },
+    {
+     "original_transcription": "emayamkepalekos",
+     "original_gloss": "to be among or to be with"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "27",
+   "full_text": "Aklommelekma enhonlon omahahkakos.",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Aklommelekma",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "enhonlon",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "omahahkakos",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": ".",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "aklommelekma",
+     "original_gloss": "wishing"
+    },
+    {
+     "original_transcription": "(enhonlon",
+     "original_gloss": "refuses"
+    },
+    {
+     "original_transcription": "omahahkakos)",
+     "original_gloss": ""
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "28",
+   "full_text": "Aklonkales kachelektus",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Aklonkales",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "kachelektus",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "aklonkales",
+     "original_gloss": "I guess"
+    },
+    {
+     "original_transcription": "kachelektus",
+     "original_gloss": "I said to him"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "29",
+   "full_text": "Mamen onkakat chehnoka",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Mamen",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "onkakat",
+     "word_breakdown": "onkakat",
+     "morphs": [
+      {
+       "morph_txt": "onkakat",
+       "morph_type": ""
+      }
+     ],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "chehnoka",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "marmen",
+     "original_gloss": "than"
+    },
+    {
+     "original_transcription": "onkakat",
+     "original_gloss": "he said"
+    },
+    {
+     "original_transcription": "chehnoka",
+     "original_gloss": "for you"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "30",
+   "full_text": "Chemenhonlatikoscakachektus",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Chemenhonlatikoscakachektus",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "chemenhonlatikos",
+     "original_gloss": "I wont refuse you"
+    },
+    {
+     "original_transcription": "cakachektus",
+     "original_gloss": "said to me"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "31",
+   "full_text": "Mamek ehalkon enhohkan",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Mamek",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "ehalkon",
+     "word_breakdown": "e-halk-on",
+     "morphs": [
+      {
+       "morph_txt": "e-",
+       "morph_type": ""
+      },
+      {
+       "morph_txt": "halk",
+       "morph_gls": "wife",
+       "morph_type": "stem"
+      },
+      {
+       "morph_txt": "-on",
+       "morph_gls": "acc",
+       "morph_type": "suffix"
+      }
+     ],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "enhohkan",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "marmek",
+     "original_gloss": "than he"
+    },
+    {
+     "original_transcription": "ehalkon",
+     "original_gloss": "his wife"
+    },
+    {
+     "original_transcription": "enhohkan",
+     "original_gloss": "called her"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "32",
+   "full_text": "Ehalkoka elan emanahek tikoka",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Ehalkoka",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "elan",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "emanahek",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "tikoka",
+     "word_breakdown": "tik-oka",
+     "morphs": [
+      {
+       "morph_txt": "tik",
+       "morph_gls": "girl",
+       "morph_type": "stem"
+      },
+      {
+       "morph_txt": "-oka",
+       "morph_type": ""
+      }
+     ],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "ehalkoka",
+     "original_gloss": "his wife"
+    },
+    {
+     "original_transcription": "elan",
+     "original_gloss": "come"
+    },
+    {
+     "original_transcription": "emanahek",
+     "original_gloss": "told her"
+    },
+    {
+     "original_transcription": "tikoka",
+     "original_gloss": "the Girl"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "33",
+   "full_text": "Henhonchonkales nanos aklechkan",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Henhonchonkales",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "nanos",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "aklechkan",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "henhonchonkales",
+     "original_gloss": "I am given away"
+    },
+    {
+     "original_transcription": "nanos",
+     "original_gloss": ""
+    },
+    {
+     "original_transcription": "aklechkan",
+     "original_gloss": "what do you think"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "34",
+   "full_text": "Onkaleso kachektus ehalkot",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Onkaleso",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "kachektus",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "ehalkot",
+     "word_breakdown": "e-halk-ot",
+     "morphs": [
+      {
+       "morph_txt": "e-",
+       "morph_type": ""
+      },
+      {
+       "morph_txt": "halk",
+       "morph_gls": "wife",
+       "morph_type": "stem"
+      },
+      {
+       "morph_txt": "-ot",
+       "morph_gls": "nom",
+       "morph_type": "suffix"
+      }
+     ],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "onkaleso",
+     "original_gloss": "about"
+    },
+    {
+     "original_transcription": "kachektus",
+     "original_gloss": "said to her"
+    },
+    {
+     "original_transcription": "ehalkot",
+     "original_gloss": "his wife"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "35",
+   "full_text": "Onkakat anoka chemata\u0142tikos",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Onkakat",
+     "word_breakdown": "onkakat",
+     "morphs": [
+      {
+       "morph_txt": "onkakat",
+       "morph_type": ""
+      }
+     ],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "anoka",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "chemata\u0142tikos",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "onkakat",
+     "original_gloss": "she said"
+    },
+    {
+     "original_transcription": "anoka",
+     "original_gloss": "I"
+    },
+    {
+     "original_transcription": "chematathtikos",
+     "original_gloss": "I dont no a think about"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "36",
+   "full_text": "Chehnot afestilek chopachepommechkate",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Chehnot",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "afestilek",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "chopachepommechkate",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "chehnot",
+     "original_gloss": "you"
+    },
+    {
+     "original_transcription": "afestilek",
+     "original_gloss": "taken care"
+    },
+    {
+     "original_transcription": "chopachepommechkate",
+     "original_gloss": "and raised her"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "37",
+   "full_text": "[ page 69] kachektus man omeka tikoka",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "[",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "page",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "69",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "]",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "kachektus",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "man",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "omeka",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "tikoka",
+     "word_breakdown": "tik-oka",
+     "morphs": [
+      {
+       "morph_txt": "tik",
+       "morph_gls": "girl",
+       "morph_type": "stem"
+      },
+      {
+       "morph_txt": "-oka",
+       "morph_type": ""
+      }
+     ],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "kachektus",
+     "original_gloss": "said to her"
+    },
+    {
+     "original_transcription": "man",
+     "original_gloss": "well than"
+    },
+    {
+     "original_transcription": "omeka",
+     "original_gloss": ""
+    },
+    {
+     "original_transcription": "tikoka",
+     "original_gloss": "the Girl"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "38",
+   "full_text": "Chenhonchonkalete talakekon",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Chenhonchonkalete",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "talakekon",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "chenhonchonkalete",
+     "original_gloss": "I am given it you"
+    },
+    {
+     "original_transcription": "talakekon",
+     "original_gloss": "to Lay down"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "39",
+   "full_text": "Chepanan ommeka tikochoahpakat",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Chepanan",
+     "word_breakdown": "che-ban-an",
+     "morphs": [
+      {
+       "morph_txt": "che-",
+       "morph_gls": "2sII",
+       "morph_type": "prefix"
+      },
+      {
+       "morph_txt": "ban",
+       "morph_gls": "want",
+       "morph_type": "stem"
+      },
+      {
+       "morph_txt": "-an",
+       "morph_type": ""
+      }
+     ],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "ommeka",
+     "word_breakdown": "omm-eka",
+     "morphs": [
+      {
+       "morph_txt": "omm",
+       "morph_gls": "aux",
+       "morph_type": "stem"
+      },
+      {
+       "morph_txt": "-eka",
+       "morph_gls": "top",
+       "morph_type": "suffix"
+      }
+     ],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "tikochoahpakat",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "chepanan",
+     "original_gloss": "wanted"
+    },
+    {
+     "original_transcription": "ommeka",
+     "original_gloss": "when you"
+    },
+    {
+     "original_transcription": "tikochahpakat",
+     "original_gloss": "the goung Girl"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "40",
+   "full_text": "Patakoka chemetonapachelakas",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Patakoka",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "chemetonapachelakas",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "patakoka",
+     "original_gloss": "the bed"
+    },
+    {
+     "original_transcription": "chemetonaponapachelakas",
+     "original_gloss": "will prepare you"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "41",
+   "full_text": "Chakachektus mamen chokolelen",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Chakachektus",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "mamen",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "chokolelen",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "chakachektus",
+     "original_gloss": "said to me"
+    },
+    {
+     "original_transcription": "marmen",
+     "original_gloss": "than"
+    },
+    {
+     "original_transcription": "chokolelen",
+     "original_gloss": "I was setting"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "42",
+   "full_text": "Tikoka elak empekot tonapommes",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Tikoka",
+     "word_breakdown": "tik-oka",
+     "morphs": [
+      {
+       "morph_txt": "tik",
+       "morph_gls": "girl",
+       "morph_type": "stem"
+      },
+      {
+       "morph_txt": "-oka",
+       "morph_type": ""
+      }
+     ],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "elak",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "empekot",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "tonapommes",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "tikoka",
+     "original_gloss": "the Girl"
+    },
+    {
+     "original_transcription": "elak",
+     "original_gloss": "come"
+    },
+    {
+     "original_transcription": "empekot",
+     "original_gloss": "eating"
+    },
+    {
+     "original_transcription": "tonapommes",
+     "original_gloss": "ready"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "43",
+   "full_text": "Ontek empes chakachektus",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Ontek",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "empes",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "chakachektus",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "ontek",
+     "original_gloss": "come an [sic]"
+    },
+    {
+     "original_transcription": "empes",
+     "original_gloss": "eat"
+    },
+    {
+     "original_transcription": "chakachektus",
+     "original_gloss": "said to me"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "44",
+   "full_text": "Mamen okle chope aponke",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Mamen",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "okle",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "chope",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "aponke",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "marmen",
+     "original_gloss": "than"
+    },
+    {
+     "original_transcription": "okle",
+     "original_gloss": "town"
+    },
+    {
+     "original_transcription": "chope",
+     "original_gloss": "Big"
+    },
+    {
+     "original_transcription": "aponke",
+     "original_gloss": "word or talk"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "45",
+   "full_text": "Emahe\u0142an chokelek( maybe: chokolek) olokhomempes",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Emahe\u0142an",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "chokelek",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "(",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "maybe",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": ":",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "chokolek",
+     "word_breakdown": "chokol-ek",
+     "morphs": [
+      {
+       "morph_txt": "chokol",
+       "morph_gls": "sit",
+       "morph_type": "stem"
+      },
+      {
+       "morph_txt": "-ek",
+       "morph_gls": "sr:ss",
+       "morph_type": "suffix"
+      }
+     ],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": ")",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "olokhomempes",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "emahethon",
+     "original_gloss": "like to"
+    },
+    {
+     "original_transcription": "chokelek",
+     "original_gloss": "setting"
+    },
+    {
+     "original_transcription": "olokhomempes",
+     "original_gloss": "you go an eat"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "46",
+   "full_text": "Chakachen tikoka achaka\u0142ak",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Chakachen",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "tikoka",
+     "word_breakdown": "tik-oka",
+     "morphs": [
+      {
+       "morph_txt": "tik",
+       "morph_gls": "girl",
+       "morph_type": "stem"
+      },
+      {
+       "morph_txt": "-oka",
+       "morph_type": ""
+      }
+     ],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "achaka\u0142ak",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "chakachen",
+     "original_gloss": "said to me"
+    },
+    {
+     "original_transcription": "tikoka",
+     "original_gloss": "the Girl"
+    },
+    {
+     "original_transcription": "achakathak",
+     "original_gloss": "I followed"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "47",
+   "full_text": "Onempeke achokolelen",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Onempeke",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "achokolelen",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "onempeke",
+     "original_gloss": "the table"
+    },
+    {
+     "original_transcription": "achokolelen",
+     "original_gloss": "I was sitting"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "48",
+   "full_text": "Tikikak lokantaplalakak( maybe: antaptalakak)",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Tikikak",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "lokantaplalakak",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "(",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "maybe",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": ":",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "antaptalakak",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": ")",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "tikikok",
+     "original_gloss": "the Girl"
+    },
+    {
+     "original_transcription": "lokantaplalakak",
+     "original_gloss": "on my side"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "49",
+   "full_text": "[ page 70] Achokolen toklamot",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "[",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "page",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "70",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "]",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "Achokolen",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "toklamot",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "achokolen",
+     "original_gloss": "setting"
+    },
+    {
+     "original_transcription": "toklamot",
+     "original_gloss": "both"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "50",
+   "full_text": "Etentakpalakak wekak",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Etentakpalakak",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "wekak",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "etentakpalakak",
+     "original_gloss": "both togather"
+    },
+    {
+     "original_transcription": "wekak",
+     "original_gloss": "set"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "51",
+   "full_text": "Empekaktus mamen",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Empekaktus",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "mamen",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "empekaktus",
+     "original_gloss": "we eat"
+    },
+    {
+     "original_transcription": "marmen",
+     "original_gloss": "than"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "52",
+   "full_text": "Mochostaka patakoka ametonapahochen",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Mochostaka",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "patakoka",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "ametonapahochen",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "mochostaka",
+     "original_gloss": "the night"
+    },
+    {
+     "original_transcription": "patakoka",
+     "original_gloss": "the bed"
+    },
+    {
+     "original_transcription": "ametonapahochen",
+     "original_gloss": "fixed for me"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "53",
+   "full_text": "Talakalen tikochahpakak",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Talakalen",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "tikochahpakak",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "talakalen",
+     "original_gloss": "I layed down"
+    },
+    {
+     "original_transcription": "tiko",
+     "original_gloss": "Girl"
+    },
+    {
+     "original_transcription": "chahpakak",
+     "original_gloss": "the young"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "54",
+   "full_text": "Olokantalakan sulkekan( maybe: salkekan)",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Olokantalakan",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "sulkekan",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "(",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "maybe",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": ":",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "salkekan",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": ")",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "olokantalakan",
+     "original_gloss": "Lay with me"
+    },
+    {
+     "original_transcription": "suekekan",
+     "original_gloss": "we both lay"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "55",
+   "full_text": "Apaksan ma nehtakoka fakon",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Apaksan",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "ma",
+     "word_breakdown": "ma",
+     "morphs": [
+      {
+       "morph_txt": "ma",
+       "morph_gls": "that",
+       "morph_type": "stem"
+      }
+     ],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "nehtakoka",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "fakon",
+     "word_breakdown": "fak-on",
+     "morphs": [
+      {
+       "morph_txt": "fak",
+       "morph_gls": "hunt?",
+       "morph_type": "stem"
+      },
+      {
+       "morph_txt": "-on",
+       "morph_gls": "acc",
+       "morph_type": "suffix"
+      }
+     ],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "apaksan",
+     "original_gloss": "next day"
+    },
+    {
+     "original_transcription": "ma",
+     "original_gloss": "that day"
+    },
+    {
+     "original_transcription": "nehtakoka",
+     "original_gloss": "hunting"
+    },
+    {
+     "original_transcription": "fakon",
+     "original_gloss": ""
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "56",
+   "full_text": "A\u0142esyekaktus ane tike",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "A\u0142esyekaktus",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "ane",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "tike",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "athesyekaktus",
+     "original_gloss": "both went"
+    },
+    {
+     "original_transcription": "ane",
+     "original_gloss": "I"
+    },
+    {
+     "original_transcription": "tike",
+     "original_gloss": "Girl"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "57",
+   "full_text": "Estoklamot mamen a\u0142esyak",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Estoklamot",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "mamen",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "a\u0142esyak",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "estoklamot",
+     "original_gloss": "both"
+    },
+    {
+     "original_transcription": "marmen",
+     "original_gloss": "then"
+    },
+    {
+     "original_transcription": "athesyak",
+     "original_gloss": "both went"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "58",
+   "full_text": "Hopakechetek etaholetkachek",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Hopakechetek",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "etaholetkachek",
+     "word_breakdown": "etaholetkach-ek",
+     "morphs": [
+      {
+       "morph_txt": "etaholetkach",
+       "morph_type": ""
+      },
+      {
+       "morph_txt": "-ek",
+       "morph_gls": "sr:ss",
+       "morph_type": "suffix"
+      }
+     ],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "hopakechetek",
+     "original_gloss": "not far off"
+    },
+    {
+     "original_transcription": "etaholetkachek,",
+     "original_gloss": "camped"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "59",
+   "full_text": "Etoka etawtek tachokelechkan",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Etoka",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "etawtek",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "tachokelechkan",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "etoka",
+     "original_gloss": "fire"
+    },
+    {
+     "original_transcription": "etawtek",
+     "original_gloss": "build"
+    },
+    {
+     "original_transcription": "tachokelechkan",
+     "original_gloss": "you stay"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "60",
+   "full_text": "Olokfayales kachelen",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Olokfayales",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "kachelen",
+     "word_breakdown": "kach-elen",
+     "morphs": [
+      {
+       "morph_txt": "kach",
+       "morph_gls": "say",
+       "morph_type": "stem"
+      },
+      {
+       "morph_txt": "-elen",
+       "morph_type": ""
+      }
+     ],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "olokfayales",
+     "original_gloss": "I am going hunt"
+    },
+    {
+     "original_transcription": "kachelen",
+     "original_gloss": "said to her"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "61",
+   "full_text": "[ page 71] Tikoka tachokolen a\u0142alektus",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "[",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "page",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "71",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "]",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "Tikoka",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "tachokolen",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "a\u0142alektus",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "tikoka",
+     "original_gloss": "the Girl"
+    },
+    {
+     "original_transcription": "tachokolen",
+     "original_gloss": "stayed"
+    },
+    {
+     "original_transcription": "athalektus",
+     "original_gloss": "I went"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "62",
+   "full_text": "Hopakechatih monkan ech naknosot",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Hopakechatih",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "monkan",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "ech",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "naknosot",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "hopakechatihmonkan",
+     "original_gloss": "not to[o] far off"
+    },
+    {
+     "original_transcription": "echnak",
+     "original_gloss": "Deer or Buck"
+    },
+    {
+     "original_transcription": "nosot",
+     "original_gloss": "old"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "63",
+   "full_text": "Ayyepan eshechak",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Ayyepan",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "eshechak",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "ayyepan",
+     "original_gloss": "about"
+    },
+    {
+     "original_transcription": "eshechak",
+     "original_gloss": "I found"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "64",
+   "full_text": "Ayapahlek a\u0142eyak awelusen",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Ayapahlek",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "a\u0142eyak",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "awelusen",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "ayapahlek",
+     "original_gloss": "I went easy or coming"
+    },
+    {
+     "original_transcription": "atheyak",
+     "original_gloss": "went"
+    },
+    {
+     "original_transcription": "awelusan",
+     "original_gloss": "close a anough"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "65",
+   "full_text": "O\u0142ak ahon ossemachokolepak",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "O\u0142ak",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "ahon",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "ossemachokolepak",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "othak",
+     "original_gloss": "go there"
+    },
+    {
+     "original_transcription": "ahon",
+     "original_gloss": "tree"
+    },
+    {
+     "original_transcription": "ossemachokolepak",
+     "original_gloss": "set down"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "66",
+   "full_text": "\u0142us lechelen echnaknosoka",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "\u0142us",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "lechelen",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "echnaknosoka",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "thus",
+     "original_gloss": "pop"
+    },
+    {
+     "original_transcription": "lechelen",
+     "original_gloss": "done"
+    },
+    {
+     "original_transcription": "ech",
+     "original_gloss": "Deer"
+    },
+    {
+     "original_transcription": "naknosoka",
+     "original_gloss": "old"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "67",
+   "full_text": "\u0142enekak hopakechetek",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "\u0142enekak",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "hopakechetek",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "thenekak",
+     "original_gloss": "ran"
+    },
+    {
+     "original_transcription": "hopakechetek",
+     "original_gloss": "not far off"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "68",
+   "full_text": "O\u0142 ha\u0142aleheno\u0142alekan",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "O\u0142",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "ha\u0142aleheno\u0142alekan",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "oth-hathalehen",
+     "original_gloss": "he fell"
+    },
+    {
+     "original_transcription": "othalekan",
+     "original_gloss": "I got there"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "69",
+   "full_text": "Elepahchot talakan",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Elepahchot",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "talakan",
+     "word_breakdown": "tal\u00e2ak-an",
+     "morphs": [
+      {
+       "morph_txt": "tal\u00e2ak",
+       "morph_gls": "lie:down",
+       "morph_type": "stem"
+      },
+      {
+       "morph_txt": "-an",
+       "morph_type": ""
+      }
+     ],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "elepahchot",
+     "original_gloss": "ready dead"
+    },
+    {
+     "original_transcription": "talakan",
+     "original_gloss": "lay"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "70",
+   "full_text": "Olokfetalamek eyyon",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Olokfetalamek",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "eyyon",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "olokfetalamek",
+     "original_gloss": "I turn over"
+    },
+    {
+     "original_transcription": "eyyon",
+     "original_gloss": "feet"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "71",
+   "full_text": "Emasekek chonohlek",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Emasekek",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "chonohlek",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "emasekek",
+     "original_gloss": "skined"
+    },
+    {
+     "original_transcription": "chonohlek",
+     "original_gloss": "packed it"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "72",
+   "full_text": "Ossentek( maybe: ossontek) etaholetke esselalen",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Ossentek",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "(",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "maybe",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": ":",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "ossontek",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": ")",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "etaholetke",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "esselalen",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "ossentek",
+     "original_gloss": "I come back to"
+    },
+    {
+     "original_transcription": "etaholetke",
+     "original_gloss": "camp"
+    },
+    {
+     "original_transcription": "eselalen",
+     "original_gloss": "I come in"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "73",
+   "full_text": "[ page 72] Tikoka tacholeskat( tachokuleskat)",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "[",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "page",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "72",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "]",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "Tikoka",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "tacholeskat",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "(",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "tachokuleskat",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": ")",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "tikoka",
+     "original_gloss": "the Girl"
+    },
+    {
+     "original_transcription": "tacholeskat",
+     "original_gloss": "was setting"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "74",
+   "full_text": "Lokachon\u0142enekak lokamachasakan",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Lokachon\u0142enekak",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "lokamachasakan",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "lokachonthenekak",
+     "original_gloss": "ran to me"
+    },
+    {
+     "original_transcription": "lokamachasakan",
+     "original_gloss": "hang on"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "75",
+   "full_text": "Che\u0142aflek nakpeskon",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Che\u0142aflek",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "nakpeskon",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "chethaflek",
+     "original_gloss": "we skined"
+    },
+    {
+     "original_transcription": "nakpeskon",
+     "original_gloss": "rib"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "76",
+   "full_text": "Emawak chakak estachokolechen",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Emawak",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "chakak",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "estachokolechen",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "emawak",
+     "original_gloss": "take off"
+    },
+    {
+     "original_transcription": "chakak",
+     "original_gloss": "chopped"
+    },
+    {
+     "original_transcription": "estachokolechen",
+     "original_gloss": "set there on"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "77",
+   "full_text": "Esommolkakhok etapalwon",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Esommolkakhok",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "etapalwon",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "esom-molkakhok",
+     "original_gloss": "when boiling"
+    },
+    {
+     "original_transcription": "etapalwon",
+     "original_gloss": "on one side of fire"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "78",
+   "full_text": "Tachalelen tikot etapalwon",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Tachalelen",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "tikot",
+     "word_breakdown": "tik-ot",
+     "morphs": [
+      {
+       "morph_txt": "tik",
+       "morph_gls": "girl",
+       "morph_type": "stem"
+      },
+      {
+       "morph_txt": "-ot",
+       "morph_gls": "nom",
+       "morph_type": "suffix"
+      }
+     ],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "etapalwon",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "tachalelen",
+     "original_gloss": "I was standing"
+    },
+    {
+     "original_transcription": "tikot",
+     "original_gloss": "the Girl"
+    },
+    {
+     "original_transcription": "etapalwon",
+     "original_gloss": "on the other side"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "79",
+   "full_text": "Loktaayanech napeske",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Loktaayanech",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "napeske",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "loktaayan",
+     "original_gloss": "about"
+    },
+    {
+     "original_transcription": "ech",
+     "original_gloss": "deer"
+    },
+    {
+     "original_transcription": "napeske",
+     "original_gloss": "rib"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "80",
+   "full_text": "Lokkaeselen tikak",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Lokkaeselen",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "tikak",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "lokkaeselen",
+     "original_gloss": "take out"
+    },
+    {
+     "original_transcription": "tikak",
+     "original_gloss": "Girl also"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "81",
+   "full_text": "Lokkaesen empak ech nakpeske",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Lokkaesen",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "empak",
+     "word_breakdown": "empa-k",
+     "morphs": [
+      {
+       "morph_txt": "empa",
+       "morph_gls": "eat",
+       "morph_type": "stem"
+      },
+      {
+       "morph_txt": "-k",
+       "morph_type": ""
+      }
+     ],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "ech",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "nakpeske",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "lokka",
+     "original_gloss": "take out"
+    },
+    {
+     "original_transcription": "esen",
+     "original_gloss": ""
+    },
+    {
+     "original_transcription": "empak",
+     "original_gloss": "eating"
+    },
+    {
+     "original_transcription": "ech",
+     "original_gloss": "Deer"
+    },
+    {
+     "original_transcription": "nakpeske",
+     "original_gloss": "rib"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "82",
+   "full_text": "Nohateh monkan anolek",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Nohateh",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "monkan",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "anolek",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "nohateh",
+     "original_gloss": "not done"
+    },
+    {
+     "original_transcription": "monkan",
+     "original_gloss": ""
+    },
+    {
+     "original_transcription": "anolek",
+     "original_gloss": "eat up"
+    }
+   ],
+   "notes": []
+  },
+  {
+   "segnum": "83",
+   "full_text": "Espohayaskek honchekaktus",
+   "translation_en": null,
+   "word_list": [
+    {
+     "word_text": "Espohayaskek",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    },
+    {
+     "word_text": "honchekaktus",
+     "word_breakdown": "",
+     "morphs": [],
+     "pos": "",
+     "gls": ""
+    }
+   ],
+   "original": [
+    {
+     "original_transcription": "espohayaskek",
+     "original_gloss": "both laughed"
+    },
+    {
+     "original_transcription": "honchekaktus",
+     "original_gloss": "quit"
+    }
+   ],
+   "notes": []
+  }
+ ]
+}

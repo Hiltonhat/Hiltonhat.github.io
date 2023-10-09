@@ -1,11 +1,11 @@
 {
  "flextext": "second_letter.flextext",
- "title_en": "1931 Willie Haney Letters, Pt. 2 [The Rabbit and the Wolf]",
+ "title_en": "1931 Willie Haney Letters, Pt. 02 [The Rabbit and the Wolf]",
  "comment": "\"The wolf act like he is dead and the rabbit went and got many turkeys to dance on when danced on the wolf jumped up and eaten cXXX\"",
  "sentences": [
   {
    "segnum": "1.1",
-   "full_text": "Chokfot opahoshon eshtoklak yawkaktawa.",
+   "full_text": "Chokfot oba\u0331a\u0331hoshon eshtoklak yawkaktawa.",
    "translation_en": null,
    "word_list": [
     {
@@ -27,11 +27,11 @@
      "gls": ""
     },
     {
-     "word_text": "opahoshon",
-     "word_breakdown": "opahosh-on",
+     "word_text": "oba\u0331a\u0331hoshon",
+     "word_breakdown": "oba\u0331a\u0331hosh-on",
      "morphs": [
       {
-       "morph_txt": "opahosh",
+       "morph_txt": "oba\u0331a\u0331hosh",
        "morph_gls": "wolf",
        "morph_type": "stem"
       },
@@ -108,15 +108,15 @@
   },
   {
    "segnum": "1.2",
-   "full_text": "Opahoshot chokfon epahommen chokfot onkakat,\" Chalechechkaten empekoka anot chenhechlechelalesh awelushekan fitot oherahtowa.",
+   "full_text": "Oba\u0331a\u0331hoshot chokfon epahommen chokfot onkakat,\" Chalechechkaten empekoka anot chenhechlechelalesh awelushekan fitot ohe\u0142ahtowa.",
    "translation_en": null,
    "word_list": [
     {
-     "word_text": "Opahoshot",
-     "word_breakdown": "opahosh-ot",
+     "word_text": "Oba\u0331a\u0331hoshot",
+     "word_breakdown": "oba\u0331a\u0331hosh-ot",
      "morphs": [
       {
-       "morph_txt": "opahosh",
+       "morph_txt": "oba\u0331a\u0331hosh",
        "morph_gls": "wolf",
        "morph_type": "stem"
       },
@@ -314,7 +314,7 @@
      "gls": ""
     },
     {
-     "word_text": "oherahtowa",
+     "word_text": "ohe\u0142ahtowa",
      "word_breakdown": "",
      "morphs": [],
      "pos": "",
@@ -463,7 +463,7 @@
   },
   {
    "segnum": "1.4",
-   "full_text": "kachen opahoshoka chokfe elechetek honchek man omeka fitoka olokachon-tohkechkahen okshechek empalalesh mameshka[ page 9] maaten ommeka chehnon chelechek echenolelalesh\" opahoshoka chokfon kaachen| chokfot onkakat\" man ommeka arak fitoka ossontahom-melesh.",
+   "full_text": "kachen opahoshoka chokfe elechetek honchek man omeka fitoka olokachon-tohkechkahen okshechek empalalesh mameshka[ page 9] maaten ommeka chehnon chelechek echenolelalesh\" opahoshoka chokfon kaachen| chokfot onkakat\" man ommeka a\u0142ak fitoka ossontahom-melesh.",
    "translation_en": null,
    "word_list": [
     {
@@ -830,19 +830,9 @@
      "gls": ""
     },
     {
-     "word_text": "arak",
-     "word_breakdown": "ar-ak",
-     "morphs": [
-      {
-       "morph_txt": "ar",
-       "morph_gls": "go",
-       "morph_type": "stem"
-      },
-      {
-       "morph_txt": "-ak",
-       "morph_type": ""
-      }
-     ],
+     "word_text": "a\u0142ak",
+     "word_breakdown": "",
+     "morphs": [],
      "pos": "",
      "gls": ""
     },
@@ -1164,7 +1154,7 @@
   },
   {
    "segnum": "1.7",
-   "full_text": "Mamen shonapah-oran ommek, lok-tolopkak[ page 10] fitoka ashfechkalakash.\"",
+   "full_text": "Mamen shonapah-o\u0142an ommek, lok-tolopkak[ page 10] fitoka ashfechkalakash.\"",
    "translation_en": null,
    "word_list": [
     {
@@ -1175,7 +1165,7 @@
      "gls": ""
     },
     {
-     "word_text": "shonapah-oran",
+     "word_text": "shonapah-o\u0142an",
      "word_breakdown": "",
      "morphs": [],
      "pos": "",
@@ -1307,7 +1297,7 @@
   },
   {
    "segnum": "1.8",
-   "full_text": "kachen, opahoshoka\" afachk-herot mahmelakash\" kachen chokfoka arak ayyakan fitoka yawlechen eshechak chokfoka fiton enholashek opahoshot echokshehochek echempak omhahmekwa.",
+   "full_text": "kachen, opahoshoka\" afachk-he\u0142ot mahmelakash\" kachen chokfoka a\u0142ak ayyakan fitoka yawlechen eshechak chokfoka fiton enhola\u0331a\u0331shek opahoshot echokshehochek echempak omhahmekwa.",
    "translation_en": null,
    "word_list": [
     {
@@ -1350,7 +1340,7 @@
      "gls": ""
     },
     {
-     "word_text": "afachk-herot",
+     "word_text": "afachk-he\u0142ot",
      "word_breakdown": "",
      "morphs": [],
      "pos": "",
@@ -1406,19 +1396,9 @@
      "gls": ""
     },
     {
-     "word_text": "arak",
-     "word_breakdown": "ar-ak",
-     "morphs": [
-      {
-       "morph_txt": "ar",
-       "morph_gls": "go",
-       "morph_type": "stem"
-      },
-      {
-       "morph_txt": "-ak",
-       "morph_type": ""
-      }
-     ],
+     "word_text": "a\u0142ak",
+     "word_breakdown": "",
+     "morphs": [],
      "pos": "",
      "gls": ""
     },
@@ -1496,9 +1476,24 @@
      "gls": ""
     },
     {
-     "word_text": "enholashek",
-     "word_breakdown": "",
-     "morphs": [],
+     "word_text": "enhola\u0331a\u0331shek",
+     "word_breakdown": "en-hola\u0331a\u0331she-ek",
+     "morphs": [
+      {
+       "morph_txt": "en-",
+       "morph_type": ""
+      },
+      {
+       "morph_txt": "hola\u0331a\u0331she",
+       "morph_gls": "tell:lie",
+       "morph_type": "stem"
+      },
+      {
+       "morph_txt": "-ek",
+       "morph_gls": "sr:ss",
+       "morph_type": "suffix"
+      }
+     ],
      "pos": "",
      "gls": ""
     },
@@ -1718,7 +1713,7 @@
   },
   {
    "segnum": "3",
-   "full_text": "Mate lapkot[ page 11] achachakarachachkan arachohen ma opahoshe elehtalankakan oshrachon ontalwak onafachkech?",
+   "full_text": "Mate lapkot[ page 11] achachaka\u0142achachkan a\u0142achohen ma opahoshe elehtalankakan osh\u0142achon ontalwak onafachkech?",
    "translation_en": null,
    "word_list": [
     {
@@ -1775,14 +1770,14 @@
      "gls": ""
     },
     {
-     "word_text": "achachakarachachkan",
+     "word_text": "achachaka\u0142achachkan",
      "word_breakdown": "",
      "morphs": [],
      "pos": "",
      "gls": ""
     },
     {
-     "word_text": "arachohen",
+     "word_text": "a\u0142achohen",
      "word_breakdown": "",
      "morphs": [],
      "pos": "",
@@ -1830,7 +1825,7 @@
      "gls": ""
     },
     {
-     "word_text": "oshrachon",
+     "word_text": "osh\u0142achon",
      "word_breakdown": "",
      "morphs": [],
      "pos": "",
@@ -2084,7 +2079,7 @@
   },
   {
    "segnum": "6",
-   "full_text": "chofoka fiton kachen,\" man ommeka, hanton talakommen ommeka[ page 12] sheporechkan opahoshon onafachkahekash.\"",
+   "full_text": "chofoka fiton kachen,\" man ommeka, hanton talakommen ommeka[ page 12] shepo\u0142echkan opahoshon onafachkahekash.\"",
    "translation_en": null,
    "word_list": [
     {
@@ -2185,11 +2180,11 @@
     },
     {
      "word_text": "talakommen",
-     "word_breakdown": "talakomm-en",
+     "word_breakdown": "tal\u00e2akomm-en",
      "morphs": [
       {
-       "morph_txt": "talak",
-       "morph_gls": "lie.down",
+       "morph_txt": "tal\u00e2ak",
+       "morph_gls": "lie:down",
        "morph_type": "stem"
       },
       {
@@ -2253,7 +2248,7 @@
      "gls": ""
     },
     {
-     "word_text": "sheporechkan",
+     "word_text": "shepo\u0142echkan",
      "word_breakdown": "",
      "morphs": [],
      "pos": "",
@@ -2344,7 +2339,7 @@
   },
   {
    "segnum": "7.1",
-   "full_text": "fitoka kachehen,\" chokfot emokaten fitoka achonkot achakarachen, la wilek ossontek Opaahosh talakakan osselakan opahooshoka elepahchommek talakan fitoka hechak lapkot ontalwak onafachkoch.\"",
+   "full_text": "fitoka kachehen,\" chokfot emokaten fitoka achonkot achaka\u0142achen, la wilek ossontek Opaahosh talakakan osselakan opahooshoka elepahchommek talakan fitoka hechak lapkot ontalwak onafachkoch.\"",
    "translation_en": null,
    "word_list": [
     {
@@ -2435,7 +2430,7 @@
      "gls": ""
     },
     {
-     "word_text": "achakarachen",
+     "word_text": "achaka\u0142achen",
      "word_breakdown": "",
      "morphs": [],
      "pos": "",
@@ -2506,11 +2501,11 @@
     },
     {
      "word_text": "talakan",
-     "word_breakdown": "talak-an",
+     "word_breakdown": "tal\u00e2ak-an",
      "morphs": [
       {
-       "morph_txt": "talak",
-       "morph_gls": "lie.down",
+       "morph_txt": "tal\u00e2ak",
+       "morph_gls": "lie:down",
        "morph_type": "stem"
       },
       {
@@ -3039,7 +3034,7 @@
   },
   {
    "segnum": "7.4",
-   "full_text": "enkak hopanan, fitot onkakat,\" matehchon entaron hopanok-kesh.",
+   "full_text": "enkak hopanan, fitot onkakat,\" matehchon enta\u0142on hopanok-kesh.",
    "translation_en": null,
    "word_list": [
     {
@@ -3125,7 +3120,7 @@
      "gls": ""
     },
     {
-     "word_text": "entaron",
+     "word_text": "enta\u0142on",
      "word_breakdown": "",
      "morphs": [],
      "pos": "",
@@ -3172,7 +3167,7 @@
   },
   {
    "segnum": "7.5",
-   "full_text": "Ma hopankoka heratek ommesh,\" fitoka[ page 14] chokfon kachen,\" mot herot ommesh.\"",
+   "full_text": "Ma hopankoka he\u0142atek ommesh,\" fitoka[ page 14] chokfon kachen,\" mot he\u0142ot ommesh.\"",
    "translation_en": null,
    "word_list": [
     {
@@ -3196,31 +3191,21 @@
      "gls": ""
     },
     {
-     "word_text": "heratek",
-     "word_breakdown": "hera-te-ek",
-     "morphs": [
-      {
-       "morph_txt": "hera",
-       "morph_type": ""
-      },
-      {
-       "morph_txt": "-te",
-       "morph_gls": "neg",
-       "morph_type": "suffix"
-      },
-      {
-       "morph_txt": "-ek",
-       "morph_gls": "sr:ss",
-       "morph_type": "suffix"
-      }
-     ],
+     "word_text": "he\u0142atek",
+     "word_breakdown": "",
+     "morphs": [],
      "pos": "",
      "gls": ""
     },
     {
      "word_text": "ommesh",
-     "word_breakdown": "",
-     "morphs": [],
+     "word_breakdown": "ommesh",
+     "morphs": [
+      {
+       "morph_txt": "ommesh",
+       "morph_type": ""
+      }
+     ],
      "pos": "",
      "gls": ""
     },
@@ -3334,7 +3319,7 @@
      "gls": ""
     },
     {
-     "word_text": "herot",
+     "word_text": "he\u0142ot",
      "word_breakdown": "",
      "morphs": [],
      "pos": "",
@@ -3342,8 +3327,13 @@
     },
     {
      "word_text": "ommesh",
-     "word_breakdown": "",
-     "morphs": [],
+     "word_breakdown": "ommesh",
+     "morphs": [
+      {
+       "morph_txt": "ommesh",
+       "morph_type": ""
+      }
+     ],
      "pos": "",
      "gls": ""
     },
@@ -3401,7 +3391,7 @@
   },
   {
    "segnum": "8",
-   "full_text": "Ma hopankot kachechhok, opahoshoka lok tolopkan fitoka ayamalen yakashlechekak, mamen opahoshoka ramen afan chokfoka renekak washakepaktawa.",
+   "full_text": "Ma hopankot kachechhok, opahoshoka lok tolopkan fitoka ayamalen yakashlechekak, mamen opahoshoka \u0142amen afan chokfoka \u0142enekak washakepaktawa.",
    "translation_en": null,
    "word_list": [
     {
@@ -3512,7 +3502,7 @@
      "gls": ""
     },
     {
-     "word_text": "ramen",
+     "word_text": "\u0142amen",
      "word_breakdown": "",
      "morphs": [],
      "pos": "",
@@ -3543,7 +3533,7 @@
      "gls": ""
     },
     {
-     "word_text": "renekak",
+     "word_text": "\u0142enekak",
      "word_breakdown": "",
      "morphs": [],
      "pos": "",
