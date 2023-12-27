@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<body>
+    <form>
+        <input id="password_input" type="text">
+    </form>
+
+    <script type="module">
+        // need to read the text file password.txt
+        let password_file = await fetch('./password.txt')
+        let password = await password_file.text()
+
+        const box = document.getElementById("password_input");
+        box.addEventListener("keyup", checkPassword);
+
+        function checkPassword() {
+        let value = box.value;
+        console.log(value)
+
+        if (value == password) {
+            console.log('correct password!')
+        } else {
+            console.log('incorrect password :(')
+        }
+
+        }
+    </script>
+</body>
