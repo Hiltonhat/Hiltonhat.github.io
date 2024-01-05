@@ -6,7 +6,7 @@ export async function renderSentence(sentence) {
   // column for the segnum
   const segnumColumn = document.createElement("td");
   segnumColumn.setAttribute("class", "segnum_column");
-  segnumColumn.innerText = sentence["segnum"];
+  segnumColumn.innerText = sentence["segnum"]; // add the title here?
   addSentence.appendChild(segnumColumn);
 
 
@@ -95,7 +95,7 @@ export async function renderSentence(sentence) {
                   if (morph["morph_txt"]) {
                       glossMk.innerText = morph["morph_txt"]
                   } else {
-                      glossMk.innerText = "" //change this string to "?" or something if you wanna see the cells
+                      glossMk.innerText = "" // change this string to "?" or something if you wanna see the cells
                   }
                   glossMkRow.appendChild(glossMk);
                   wordLevelGloss.appendChild(glossMkRow);
@@ -104,7 +104,7 @@ export async function renderSentence(sentence) {
                   if (morph["morph_gls"]) {
                       glossEn.innerText = morph["morph_gls"]
                   } else {
-                      glossEn.innerText = "" //change this string to "?" or something if you wanna see the cells
+                      glossEn.innerText = "" // change this string to "?" or something if you wanna see the cells
                   }
                   glossEnRow.appendChild(glossEn);
                   wordLevelGloss.appendChild(glossEnRow);
