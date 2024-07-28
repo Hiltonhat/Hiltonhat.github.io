@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<!-- <link rel="stylesheet" href="./muskogean_keyboard_help.css"> -->
+<body>
+    <h2>Type in this box to get a converted string of text</h2>
+    <div><input id='originalText'></div>
+    <p id="outputText"></p>
+
+    <script type="module">
+
+        const originalText = document.getElementById("originalText");
+        const outputText = document.getElementById("outputText")
+
+        window.addEventListener("keydown", (event) => {
+            if (event.key == "Enter") {
+                originalText.value = ""
+            }
+        })
+
+        originalText.addEventListener("keyup", convertText)
+        function convertText() {
+            let value = originalText.value;
+
+            // consonants
+            value = value.replaceAll("p", "π");
+            value = value.replaceAll("b", "β");
+            value = value.replaceAll("m", "μ");
+            value = value.replaceAll("f", "φ");
+            value = value.replaceAll("v", "ϐ");
+            value = value.replaceAll("w", "ω");
+            value = value.replaceAll("z", "ζ"); // never actually ended up getting used
+            value = value.replaceAll("r", "ρ"); // never actually ended up getting used
+            value = value.replaceAll("sh", "ɦ");
+            value = value.replaceAll("Z", "z");
+            value = value.replaceAll("y", "ч");
+            value = value.replaceAll("th", "θ");
+            value = value.replaceAll("t", "τ");
+            value = value.replaceAll("d", "δ");
+            value = value.replaceAll("l", "λ");
+            value = value.replaceAll("k", "κ");
+            value = value.replaceAll("g", "γ");
+            value = value.replaceAll("n", "ν");
+            value = value.replaceAll("ch", "χ");
+            value = value.replaceAll("L", "θλ"); // common digraph in the dictionary
+
+            // vowels
+            value = value.replaceAll("ou", "ȣ");
+            value = value.replaceAll("A", "α");
+            value = value.replaceAll("e", "ε");
+            value = value.replaceAll("i", "ι");
+            value = value.replaceAll("o", "ο"); // latin lowercase o and greek lowercase omicron are different characters in unicode. It's not obvious in some fonts but sometimes there's a slight difference
+            value = value.replaceAll("U", "υ");
+
+            // add accent marks
+            value = value.replaceAll('-', "̄");
+            value = value.replaceAll('\'', "́");
+            value = value.replaceAll('c', "̆");
+            value = value.replaceAll('.', "̇");
+
+            // a way of breaking up digraphs
+            value = value.replaceAll(',', "");
+
+            outputText.innerHTML = value
+            navigator.clipboard.writeText(value)
+        }
+
+    </script>
+</body>

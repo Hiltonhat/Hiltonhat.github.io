@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<!-- <link rel="stylesheet" href="./muskogean_keyboard_help.css"> -->
+<body>
+    <h2>Type in the box to get a converted string of text:</h2>
+    <p>If you'd like to guide folks who will use your text converter, this might be a place where you can list out the rules you put in the javascript</p>
+    <p>So for example, for each rule you could create a pair of paragraph tags ("p" and "/p"), and in between them put something like "4 = for" or "a^" = "â"</p>
+    <p>You can see some examples of what I'm talking about on my Muskogean keyboard page (add hyperlink)</p>
+    <div><input id='originalText'><button id="copyOutputButton">copy!</button></div>
+    <p id="outputText"></p>
+
+    <script type="module">
+        // this is the keyboard making template
+        // my hope is to eventually make a tool on my website where you can just put the conversions you want into a textbox and it'll produce the html file for you, but until then I have this.
+        // these javascript comments (the ones with "//" on the left side) will let you know where to put your customizations, so just follow them (and then maybe delete them when you're done!)
+
+        const originalText = document.getElementById("originalText");
+        const outputText = document.getElementById("outputText")
+        var outputValue = ""
+
+        // this is a command that says that if you hit the Enter key, it will clear your textbox.
+        // If you don't want a button that deletes all the text you just typed, then delete or comment out the next five lines.
+        // If you'd like a different key to trigger that action, you can do that by replacing the word "Enter" with the identity of the key you'd like
+        // the proper names of keys can be found here if you want to pick one that's not one of the letters: https://developer.mozilla.org/en-US/docs/Web/API/UI_Events/Keyboard_event_key_values
+        window.addEventListener("keydown", (event) => {
+            if (event.key == "Enter") {
+                originalText.value = ""
+            }
+        })
+
+
+        
+        // this is the function that actually does the conversion. There shouldn't really be a reason to touch these first three lines
+        // but the area below that has the next few comments is where you'll want to put your conversion rules
+        originalText.addEventListener("keyup", convertText)
+        function convertText() {
+            let value = originalText.value;
+
+            // the template for your conversion rules should be like the following comment line:
+            // value = value.replaceAll("symbol you want to convert", "symbol you want to convert it to")
+            // the one below is just a sample.
+            value = value.replaceAll("for", "4");
+
+            outputText.innerHTML = value
+            outputValue = value
+            // this last line below automatically copies the output of the conversion to your clipboard every time you type a key
+            // you might not want that to happen!
+            // in which case you can delete it (but be careful not to lose the "}" in the line below it! You'll still need that).
+            navigator.clipboard.writeText(value)
+        }
+
+
+
+        const copyOutputButton = document.getElementById("copyOutputButton");
+        copyOutputButton.addEventListener("click", copyOutput)
+        function copyOutput() {
+            navigator.clipboard.writeText(outputValue)
+            console.log("copied!")
+        }
+
+    </script>
+</body>
