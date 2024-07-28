@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<!-- add a CSS file so I can at least bold the table headers -->
+<body>
+    <div><form action="https://hiltonhat.github.io/"><button>back to homepage</button></form></div>
+    <h1>Welcome to BYI+</h1>
+    <p>This is a the modified version of Cyrus Byington's (1915) A Dictionary of the Choctaw Language that I've extracted from the Historical Choctaw Corpus FLEx project</p>
+    <p>It's not much to look at now, but I'm planning on adding some more interactivity soon!</p>
+
+    <table id="dictionaryTable">
+        <tr>
+            <td class = "header">word</td>
+            <td class = "header">definition</td>
+        </tr>
+    </table>
+
+    <script type="module">
+
+        // opening the json version of the lexicon
+        let get_flexicon = await fetch('./HCC_flexicon.json')
+        let flexicon_json = await get_flexicon.json()
+        let lexicon = flexicon_json.lexicon
+
+        // generating the table
+        const dictionaryTable = document.getElementById("dictionaryTable")
+        for (var word of lexicon) {
+            // console.log(word.senses[0].definition)
+            const newEntry = document.createElement("tr")
+
+            const addHeadword = document.createElement("td")
+            addHeadword.innerText = word.headword
+            newEntry.appendChild(addHeadword)
+
+            const addDefinition = document.createElement("td")
+            try {
+                addDefinition.innerText = word.senses[0].definition
+            } catch {
+                addDefinition.innerText = ""
+            }
+            newEntry.appendChild(addDefinition)
+
+            dictionaryTable.appendChild(newEntry)
+        }
+    </script>
+</body>
