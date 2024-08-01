@@ -23,11 +23,14 @@
         // generating the table
         const dictionaryTable = document.getElementById("dictionaryTable")
         for (var word of lexicon) {
-            // console.log(word.senses[0].definition)
             const newEntry = document.createElement("tr")
 
             const addHeadword = document.createElement("td")
+            if (word.homograph_number != 0) {
+                addHeadword.innerText = word.headword + word.homograph_number
+            } else {
             addHeadword.innerText = word.headword
+            }
             newEntry.appendChild(addHeadword)
 
             const addDefinition = document.createElement("td")
