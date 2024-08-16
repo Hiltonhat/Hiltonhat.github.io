@@ -24,6 +24,7 @@
         const dictionaryTable = document.getElementById("dictionaryTable")
         for (var word of lexicon) {
             const newEntry = document.createElement("tr")
+            newEntry.setAttribute("class", "entry")
 
             const addHeadword = document.createElement("td")
             if (word.homograph_number != 0) {
