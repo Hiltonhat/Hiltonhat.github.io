@@ -4,7 +4,18 @@
     <div><form action="https://hiltonhat.github.io/"><button>back to homepage</button></form></div>
     <h1>Welcome to BYI+</h1>
     <p>This is a the modified version of Cyrus Byington's (1915) A Dictionary of the Choctaw Language that I've extracted from the Historical Choctaw Corpus FLEx project</p>
-    <p>It's not much to look at now, but I'm planning on adding some more interactivity soon!</p>
+    <p>It's not much to look at now, but I'm planning on adding some more interactivity (and accessibility formatting) soon!</p>
+
+    <h2>Search here:</h2>
+    <p>(Type "0" (zero) to clear the searchbox.)</p>
+    <form>
+        <select id="searchFieldOptions">
+            <option value="headword">Choctaw word</option>
+            <option value="senses">English definition(s)</option>
+            <!-- more options coming once I add more fields... -->
+        </select>
+        <input id="searchInput" type="text" placeholder="search for...">
+    </form>
 
     <table id="dictionaryTable">
         <tr>
@@ -20,21 +31,42 @@
         let flexicon_json = await get_flexicon.json()
         let lexicon = flexicon_json.lexicon
 
-        // generating the table
+        const searchInput = document.getElementById("searchInput")
+        const searchFields = document.getElementById("searchFieldOptions")
+
+        // adding event listeners
+        searchInput.addEventListener("keyup", searchResults)
+        // need one on the option boxes too
+
+        function searchResults() {
         const dictionaryTable = document.getElementById("dictionaryTable")
+        dictionaryTable.innerText = "" // clear the existing results
+
+        // getting the textbox input:
+        let searchQuery = searchInput.value;
+        if (searchQuery.includes("0")) {
+            searchInput.value = ""
+        }
+        console.log(searchQuery);
+
+        // generating the results!
         for (var word of lexicon) {
+            if (word.headword.includes(searchQuery)) {
+
             const newEntry = document.createElement("tr")
             newEntry.setAttribute("class", "entry")
 
-            const addHeadword = document.createElement("td")
+            const newHeadword = document.createElement("td")
+            newHeadword.setAttribute("class", "headword")
             if (word.homograph_number != 0) {
-                addHeadword.innerText = word.headword + word.homograph_number
+                newHeadword.innerText = word.headword + word.homograph_number
             } else {
-            addHeadword.innerText = word.headword
+            newHeadword.innerText = word.headword
             }
-            newEntry.appendChild(addHeadword)
+            newEntry.appendChild(newHeadword)
 
-            const addDefinition = document.createElement("td")
+            const newDefinitionTable = document.createElement("td")
+            newDefinitionTable.setAttribute("class", "definitions")
             // adding a little table with a row for each definition
             if (word.senses[0]) {
                 const definitionsTable = document.createElement("table")
@@ -50,13 +82,16 @@
                         definitionsTable.append(oneSense)
                     }
                 }
-                addDefinition.appendChild(definitionsTable)
+                newDefinitionTable.appendChild(definitionsTable)
             } else {
-                addDefinition.innerHTML = "<table><tr><td>•</td><td>(no definition)</td></tr></table>"
+                newDefinitionTable.innerHTML = "<table><tr><td>•</td><td>(no definition)</td></tr></table>"
             }
-            newEntry.appendChild(addDefinition)
+            newEntry.appendChild(newDefinitionTable)
 
             dictionaryTable.appendChild(newEntry)
+        
+        } else {}
+        }
         }
     </script>
 </body>
