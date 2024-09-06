@@ -13,13 +13,13 @@ from xml.etree import ElementTree as ET
 
 # Add the name of the FLEx project 
 # (not the unique ID from flexbridge, but the name that shows up in FLEx on your computer)
-project_name = "historicalchoctaw"
+project_name = "myprojectname"
 
 # Now decide the folder where you'd like your json file to go once it's been built:
-json_dir = "C:/Users/skate/OneDrive/Documents/linguistics/haas_variation/"
+json_dir = "C:/Users/me/OneDrive/destinationfolder/"
 
 # What would you like your file to be called?
-new_file = "HCC_flexicon"
+new_file = "new_flexicon"
 
 ####### If you've done that you should be good to go!
 
