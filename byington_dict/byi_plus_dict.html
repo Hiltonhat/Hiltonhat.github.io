@@ -10,8 +10,8 @@
     <p>(Type "0" (zero) to clear the searchbox.)</p>
     <form>
         <select id="searchFieldOptions">
-            <option value="headword">Choctaw word</option>
-            <option value="senses">English definition(s)</option>
+            <option class = "searchFieldOptions" value="headword">Choctaw word</option>
+            <option class = "searchFieldOptions" value="senses">English definition(s)</option>
             <!-- more options coming once I add more fields... -->
         </select>
         <input id="searchInput" type="text" placeholder="search for...">
@@ -36,62 +36,73 @@
 
         // adding event listeners
         searchInput.addEventListener("keyup", searchResults)
-        // need one on the option boxes too
+        for (let i = 0; i < searchFields.length; i++) {
+            let option = searchFields.options[i];
+            option.addEventListener("click", searchResults)}
 
-        function searchResults() {
-        const dictionaryTable = document.getElementById("dictionaryTable")
-        dictionaryTable.innerText = "" // clear the existing results
 
-        // getting the textbox input:
-        let searchQuery = searchInput.value;
-        if (searchQuery.includes("0")) {
-            searchInput.value = ""
+
+function searchResults() {
+const dictionaryTable = document.getElementById("dictionaryTable")
+dictionaryTable.innerText = "" // clear the existing results
+
+// getting the input:
+let searchQuery = searchInput.value;
+if (searchQuery.includes("0")) {
+    searchInput.value = ""
+}
+console.log(searchQuery);
+
+for (let i = 0; i < searchFields.length; i++) {
+    let option = searchFields.options[i];
+    if (option.selected) {
+        var chosenOption = option.value
+    }
+}
+console.log("You picked " + chosenOption)
+
+    // generating the results!
+    for (var word of lexicon) {
+        if (word[chosenOption].includes(searchQuery)) {
+
+        const newEntry = document.createElement("tr")
+        newEntry.setAttribute("class", "entry")
+
+        const newHeadword = document.createElement("td")
+        newHeadword.setAttribute("class", "headword")
+        if (word.homograph_number != 0) {
+            newHeadword.innerText = word.headword + word.homograph_number
+        } else {
+        newHeadword.innerText = word.headword
         }
-        console.log(searchQuery);
+        newEntry.appendChild(newHeadword)
 
-        // generating the results!
-        for (var word of lexicon) {
-            if (word.headword.includes(searchQuery)) {
-
-            const newEntry = document.createElement("tr")
-            newEntry.setAttribute("class", "entry")
-
-            const newHeadword = document.createElement("td")
-            newHeadword.setAttribute("class", "headword")
-            if (word.homograph_number != 0) {
-                newHeadword.innerText = word.headword + word.homograph_number
-            } else {
-            newHeadword.innerText = word.headword
-            }
-            newEntry.appendChild(newHeadword)
-
-            const newDefinitionTable = document.createElement("td")
-            newDefinitionTable.setAttribute("class", "definitions")
-            // adding a little table with a row for each definition
-            if (word.senses[0]) {
-                const definitionsTable = document.createElement("table")
-                for (var sense of word.senses) {
-                    if (sense.definition != "") {
-                        const oneSense = document.createElement("tr")
-                        const definitionBullet = document.createElement("td")
-                        definitionBullet.innerText = "•"
-                        oneSense.appendChild(definitionBullet)
-                        const oneDefinition = document.createElement("td")
-                        oneDefinition.innerText = sense.definition
-                        oneSense.appendChild(oneDefinition)
-                        definitionsTable.append(oneSense)
-                    }
+        const newDefinitionTable = document.createElement("td")
+        newDefinitionTable.setAttribute("class", "definitions")
+        // adding a little table with a row for each definition
+        if (word.senses[0]) {
+            const definitionsTable = document.createElement("table")
+            for (var sense of word.senses) {
+                if (sense.definition != "") {
+                    const oneSense = document.createElement("tr")
+                    const definitionBullet = document.createElement("td")
+                    definitionBullet.innerText = "•"
+                    oneSense.appendChild(definitionBullet)
+                    const oneDefinition = document.createElement("td")
+                    oneDefinition.innerText = sense.definition
+                    oneSense.appendChild(oneDefinition)
+                    definitionsTable.append(oneSense)
                 }
-                newDefinitionTable.appendChild(definitionsTable)
-            } else {
-                newDefinitionTable.innerHTML = "<table><tr><td>•</td><td>(no definition)</td></tr></table>"
             }
-            newEntry.appendChild(newDefinitionTable)
+            newDefinitionTable.appendChild(definitionsTable)
+        } else {
+            newDefinitionTable.innerHTML = "<table><tr><td>•</td><td>(no definition)</td></tr></table>"
+        }
+        newEntry.appendChild(newDefinitionTable)
 
-            dictionaryTable.appendChild(newEntry)
-        
-        } else {}
-        }
-        }
+        dictionaryTable.appendChild(newEntry)
+    } else {}
+    }
+}
     </script>
 </body>
