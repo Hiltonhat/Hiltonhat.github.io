@@ -5,6 +5,15 @@
   background-color: #242d3f;
 }
 
+h1 {
+  text-align: center;
+}
+
+h3 {
+  margin-left: 96px;
+  margin-right: 96px;
+}
+
 .topnav {
   background-color: #201634;
   overflow: hidden;
